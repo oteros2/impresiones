@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello world !");
         System.out.println("prueba");
          int numeroimpresoras = 10;
-        for (int i = 0; i <= numeroDeImpresoras; i++) {
+        for (int i = 0; i <= numeroimpresoras; i++) {
             System.out.println("Impresora " + i);
         }
     }

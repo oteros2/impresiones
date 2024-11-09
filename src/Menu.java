@@ -38,15 +38,12 @@ public class Menu {
         }
 
         // Acción del botón "Imprimir"
-        btnImprimir.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                String seleccionado = (String) comboBox.getSelectedItem();
-                if (seleccionado != null) {
-                    textArea.setText("Fichero " + seleccionado + " enviado a la cola de impresión");
-                } else {
-                    textArea.setText("No se ha seleccionado ningún fichero.");
-                }
+        btnImprimir.addActionListener(e -> {
+            String seleccionado = (String) comboBox.getSelectedItem();
+            if (seleccionado != null) {
+                textArea.setText("Fichero " + seleccionado + " enviado a la cola de impresión");
+            } else {
+                textArea.setText("No se ha seleccionado ningún fichero.");
             }
         });
 

@@ -1,7 +1,5 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.io.File;
 import java.util.Arrays;
 
@@ -38,7 +36,7 @@ public class Menu {
         }
 
         // Acción del botón "Imprimir"
-        btnImprimir.addActionListener(e -> {
+        btnImprimir.addActionListener( e -> {
             String seleccionado = (String) comboBox.getSelectedItem();
             if (seleccionado != null) {
                 textArea.setText("Fichero " + seleccionado + " enviado a la cola de impresión");
@@ -46,7 +44,6 @@ public class Menu {
                 textArea.setText("No se ha seleccionado ningún fichero.");
             }
         });
-
 
         JPanel panel = new JPanel();
         panel.setLayout(new FlowLayout(FlowLayout.CENTER));

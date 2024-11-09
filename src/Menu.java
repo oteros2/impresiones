@@ -8,7 +8,7 @@ public class Menu {
         //marco de la ventana
         JFrame frame = new JFrame("Selector de Fichero");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(200, 400);
+        frame.setSize(600, 400);
         frame.setLocationRelativeTo(null);
 
         //desplegable

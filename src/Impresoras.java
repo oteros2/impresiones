@@ -15,7 +15,7 @@ class Impresoras implements Runnable {
     public void run() {
         while (true) {
             if (contadorImpresiones < limiteImpresiones) {
-                TrabajoImpresion trabajo = colaDeImpresion.poll();
+                TrabajoImpresion trabajo = colaDeImpresion.poll(); //intenta extraer un documentode la cola y en caso contrario espera un breve tiempo
                 if (trabajo != null) {
                     System.out.println(Thread.currentThread().getName() + " está imprimiendo: " + trabajo);
                     contadorImpresiones++;

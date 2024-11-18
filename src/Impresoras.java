@@ -33,7 +33,7 @@ class Impresoras implements Runnable {
                     }
                 }
             } else {
-                System.out.println(Thread.currentThread().getName() + " ha alcanzado su límite de impresiones (" + limiteImpresiones + "). Esperando para reiniciar...");
+                System.out.println("["+Thread.currentThread().getName() + " ha alcanzado su límite de impresiones (" + limiteImpresiones + "). Esperando para reiniciar...]");
 
                 try {
                     Thread.sleep(5000); // Espera antes de reiniciar el contador

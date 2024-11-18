@@ -11,5 +11,22 @@ public class Main {
         impresora2.start();
         impresora3.start();
     }
+    Thread(() -> {
+        int contador = 1;
+        while (true){
+            try{
+                Thread.sleep(2000);
+                String nombreDocumento = "Documento" + contador + ".pdf";
+                TrabajoImpresion nuevoTrabajo = new TrabajoImpresion(nombreDocumento);
+                colaDeImpresion.add(nuevoTrabajo);
+                System.out.println("Se ha añadiod un nuevo trabajo en la cola" + nuevoTrabajo);
+                contador++;
+            }catch(InterruptedException e){
+                Thread.currentThread().interrupt();
+                break;
+            }
+        }
+    });
+    generadorDeTrabajos.start();
 }
 

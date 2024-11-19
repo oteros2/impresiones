@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Random;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 class Impresoras implements Runnable {
@@ -47,7 +48,10 @@ class Impresoras implements Runnable {
                 System.out.println("["+Thread.currentThread().getName() + " ha alcanzado su límite de impresiones (" + limiteImpresiones + "). Esperando para reiniciar...]");
 
                 try {
-                    Thread.sleep(5000); // Espera antes de reiniciar el contador
+                    Random random = new Random();
+                    int tiempoEspera = random.nextInt(11) * 1000;
+                    System.out.println("Tiempo estimado de espera "+tiempoEspera/1000+" s");// Genera un número aleatorio entre 0 y 10 (en milisegundos)
+                    Thread.sleep(tiempoEspera);
                 } catch (InterruptedException e) {
                     Thread.currentThread().interrupt();
                 }

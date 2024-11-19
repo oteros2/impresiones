@@ -1,6 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 import java.io.File;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
@@ -55,7 +56,22 @@ public class Menu {
         } else {
             textArea.setText("El directorio 'files' no existe.");
         }
-
+        //Accion del boton añadir a la cola
+        ArrayList<String> Ficherosencola = new ArrayList<>();
+        botonanadirALaCola.addActionListener(e -> {
+            String archivoelegido = (String) comboBox.getSelectedItem();
+            if(archivoelegido != null){
+                File archivoSeleccionado = new File(directorio, archivoelegido);
+                if(archivoSeleccionado.exists() && archivoSeleccionado.isFile()){
+                    Ficherosencola.add(archivoelegido);
+                    textAreaCola.append("· " + archivoelegido + "\n");
+                }else{
+                    JOptionPane.showMessageDialog(frame, "El archivo seleccionado no existe.");
+                }
+            }else{
+                JOptionPane.showMessageDialog(frame, "No se ha seleccionado nada");
+            }
+        });
         //Accion del boton imprimir
         btnImprimir.addActionListener(e -> {
             //Selecciona el archivo por el nombre
@@ -69,10 +85,10 @@ public class Menu {
                     textArea.setText("Fichero " + seleccionado + " enviado a la cola de impresión.");
                     System.out.println("Se ha añadido a la cola de impresion: " + trabajo);
                 } else {
-                    textArea.setText("El archivo seleccionado no existe.");
+                    JOptionPane.showMessageDialog(frame,"El archivo seleccionado no existe.");
                 }
             } else {
-                textArea.setText("No se ha seleccionado ningún fichero.");
+                JOptionPane.showMessageDialog(frame,"No se ha seleccionado ningún fichero.");
             }
         });
 

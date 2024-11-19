@@ -9,16 +9,26 @@ public class Menu {
         //marco de la ventana
         JFrame frame = new JFrame("Selector de Fichero");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(700, 400);
+        frame.setSize(700, 600);
         frame.setResizable(false);
         frame.setLocationRelativeTo(null);
         Font font = new Font("SansSerif", Font.BOLD, 18);
 
         //desplegable
         JComboBox<String> comboBox = new JComboBox<>();
-        comboBox.setPreferredSize(new Dimension(500, 50));
+        comboBox.setPreferredSize(new Dimension(200, 50));
         comboBox.setFont(font);
-
+        //Añadir a la cola de impresion
+        JButton botonanadirALaCola = new JButton("Añadir a la cola");
+        botonanadirALaCola.setPreferredSize(new Dimension(300, 50));
+        botonanadirALaCola.setFont(font);
+        //Area de texto de los archivos en la cola
+        JTextArea textAreaCola = new JTextArea();
+        textAreaCola.setEditable(false);
+        textAreaCola.setBackground(Color.LIGHT_GRAY);
+        textAreaCola.setPreferredSize(new Dimension(600, 100));
+        textAreaCola.setFont(font);
+        textAreaCola.setText("Archivos en la cola de impresión:\n");
         //boton imprimir
         JButton btnImprimir = new JButton("Imprimir");
         btnImprimir.setPreferredSize(new Dimension(300, 50));
@@ -71,6 +81,8 @@ public class Menu {
         JSeparator separator = new JSeparator(SwingConstants.HORIZONTAL);
         separator.setPreferredSize(new Dimension(2,100));
         panel.add(comboBox);
+        panel.add(botonanadirALaCola);
+        panel.add(textAreaCola);
         panel.add(separator);
         panel.add(btnImprimir);
         panel.add(separator);

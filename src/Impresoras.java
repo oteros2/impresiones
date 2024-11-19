@@ -1,3 +1,7 @@
+import javax.swing.*;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 class Impresoras implements Runnable {
@@ -17,9 +21,16 @@ class Impresoras implements Runnable {
             if (contadorImpresiones < limiteImpresiones) {
                 TrabajoImpresion trabajo = colaDeImpresion.poll(); //intenta extraer un documentode la cola y en caso contrario espera un breve tiempo
                 if (trabajo != null) {
-                    System.out.println(Thread.currentThread().getName() + " está imprimiendo: " + trabajo);
-                    contadorImpresiones++;
-
+                    try (BufferedReader br = new BufferedReader(new FileReader(trabajo.getArchivo()))) {
+                        System.out.println(Thread.currentThread().getName() + " está imprimiendo: " + trabajo.getNombreArchivo());
+                        String linea;
+                        while ((linea = br.readLine()) != null) {
+                            JOptionPane.showMessageDialog(null, Thread.currentThread().getName() + ": " + linea); //
+                        }
+                        contadorImpresiones++;
+                    } catch (IOException e) {
+                        throw new RuntimeException(e);
+                    }
                     try {
                         Thread.sleep(1000); // Simula el tiempo de impresión
                     } catch (InterruptedException e) {

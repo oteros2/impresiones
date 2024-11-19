@@ -1,16 +1,24 @@
-public class TrabajoImpresion {
-    private String nombreDocumento;
+import java.io.File;
 
-    public TrabajoImpresion(String nombreDocumento) {
-        this.nombreDocumento = nombreDocumento;
+public class TrabajoImpresion {
+    private final String nombreArchivo;
+    private final File archivo;
+
+    public TrabajoImpresion(String nombreArchivo, File archivo) {
+        this.nombreArchivo = nombreArchivo;
+        this.archivo = archivo;
     }
 
-    public String getNombreDocumento() {
-        return nombreDocumento;
+    public String getNombreArchivo() {
+        return nombreArchivo;
+    }
+
+    public File getArchivo() {
+        return archivo;
     }
 
     @Override
     public String toString() {
-        return "Trabajo de impresión: " + nombreDocumento;
+        return nombreArchivo;
     }
 }

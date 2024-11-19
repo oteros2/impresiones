@@ -2,34 +2,25 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class Main {
     public static void main(String[] args) {
-        //Menu.createMenu(); Implementación realizada a posterior sobre este codigo mejorado
         ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion = new ConcurrentLinkedQueue<>();
+        Menu.createMenu(colaDeImpresion); //Creacion del menu
+
         int limiteImpresiones = 5;
-        Thread impresora1 = new Thread(new Impresoras(colaDeImpresion, limiteImpresiones), "Impresora 1");
-        Thread impresora2 = new Thread(new Impresoras(colaDeImpresion, limiteImpresiones), "Impresora 2");
-        Thread impresora3 = new Thread(new Impresoras(colaDeImpresion, limiteImpresiones), "Impresora 3");
+        int numeroImpresoras = 3;
+        Impresoras[] impresoras = new Impresoras[numeroImpresoras];
 
-        impresora1.start();
-        impresora2.start();
-        impresora3.start();
+        //Crea las impresoras
+        for (int i = 0; i<numeroImpresoras;i++){
+            impresoras[i] = new Impresoras(colaDeImpresion, limiteImpresiones);
+        }
 
-        Thread generadorDeTrabajos = new Thread(() -> {
-            int contador = 1;
-            while (true) {
-                try {
-                    Thread.sleep(2000);
-                    String nombreDocumento = "Documento" + contador + ".pdf";
-                    TrabajoImpresion nuevoTrabajo = new TrabajoImpresion(nombreDocumento);
-                    colaDeImpresion.add(nuevoTrabajo);
-                    System.out.println("Se ha añadido un nuevo trabajo en la cola: " + nuevoTrabajo);
-                    contador++;
-                } catch (InterruptedException e) {
-                    Thread.currentThread().interrupt();
-                    break;
-                }
-            }
-        });
-        generadorDeTrabajos.start();
+        //Crea los hilos y los ejecuta
+        for (int i = 0; i < impresoras.length; i++){
+            int numeroImpresora = i+1;
+            Thread impresora = new Thread(impresoras[i],"Impresora"+numeroImpresora);
+            impresora.start();
+        }
     }
 }
+
 

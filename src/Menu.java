@@ -68,14 +68,21 @@ public class Menu {
             }
         });
         //Accion del boton imprimir
-        /*btnImprimir.addActionListener(e -> {
-            //Selecciona el archivo por el nombre
-           if (!Ficherosencola.isEmpty()){
-               for (String archivos : Ficherosencola){
-                   File
-               }
-           }
-        });*/
+        btnImprimir.addActionListener(e -> {
+            if (!Ficherosencola.isEmpty()) {
+                for (String nombreArchivo : Ficherosencola) {
+                    File archivoSeleccionado = new File(nombreArchivo);
+                    if (archivoSeleccionado.exists() && archivoSeleccionado.isFile()) {
+                        TrabajoImpresion trabajo = new TrabajoImpresion(nombreArchivo, archivoSeleccionado);
+                        colaDeImpresion.add(trabajo);
+                        textArea.append("Se ha añadido a la cola de impresión: " + trabajo);
+                    }
+                }
+                JOptionPane.showMessageDialog(frame,"Todos los archivos se han enviado a la cola de impresión.");
+            } else {
+                JOptionPane.showMessageDialog(frame,"No hay archivos en la lista para imprimir.");
+            }
+        });
 
         JPanel panel = new JPanel();
         panel.setLayout(new FlowLayout(FlowLayout.CENTER));

@@ -14,22 +14,22 @@ public class Menu {
         frame.setResizable(false);
         frame.setLocationRelativeTo(null);
         Font font = new Font("SansSerif", Font.BOLD, 18);
-
-        //desplegable
-        JComboBox<String> comboBox = new JComboBox<>();
-        comboBox.setPreferredSize(new Dimension(200, 50));
-        comboBox.setFont(font);
         //Añadir a la cola de impresion
+
         JButton botonanadirALaCola = new JButton("Añadir a la cola");
         botonanadirALaCola.setPreferredSize(new Dimension(300, 50));
         botonanadirALaCola.setFont(font);
-        //Area de texto de los archivos en la cola
+
         JTextArea textAreaCola = new JTextArea();
         textAreaCola.setEditable(false);
         textAreaCola.setBackground(Color.LIGHT_GRAY);
-        textAreaCola.setPreferredSize(new Dimension(600, 100));
         textAreaCola.setFont(font);
-        textAreaCola.setText("Archivos en la cola de impresión:\n");
+
+        // Barras de deslizamiento para el text area
+        JScrollPane scrollTextAraCola = new JScrollPane(textAreaCola);
+        scrollTextAraCola.setPreferredSize(new Dimension(600, 150));
+        scrollTextAraCola.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
+        scrollTextAraCola.setHorizontalScrollBarPolicy(ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
         //boton imprimir
         JButton btnImprimir = new JButton("Imprimir");
         btnImprimir.setPreferredSize(new Dimension(300, 50));
@@ -39,70 +39,54 @@ public class Menu {
         JTextArea textArea = new JTextArea();
         textArea.setEditable(false);
         textArea.setBackground(Color.LIGHT_GRAY);
-        textArea.setPreferredSize(new Dimension(600, 150));
         textArea.setFont(font);
-
-        // Comprueba que el directorio existe
-        File directorio = new File("files");
-        if (directorio.exists() && directorio.isDirectory()) {
-            String[] ficheros = directorio.list();
-            //Comrpueba que hay ficheros y añade el nombre al desplegable
-            if (ficheros != null) {
-                Arrays.sort(ficheros);
-                for (String file : ficheros) {
-                    comboBox.addItem(file);
-                }
-            }
-        } else {
-            textArea.setText("El directorio 'files' no existe.");
-        }
+        // Barras de deslizamiento para el text area
+        JScrollPane scrollTextArea = new JScrollPane(textArea);
+        scrollTextArea.setPreferredSize(new Dimension(600, 150));
+        scrollTextArea.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
+        scrollTextArea.setHorizontalScrollBarPolicy(ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
         //Accion del boton añadir a la cola
         ArrayList<String> Ficherosencola = new ArrayList<>();
         botonanadirALaCola.addActionListener(e -> {
-            String archivoelegido = (String) comboBox.getSelectedItem();
-            if(archivoelegido != null){
-                File archivoSeleccionado = new File(directorio, archivoelegido);
-                if(archivoSeleccionado.exists() && archivoSeleccionado.isFile()){
-                    Ficherosencola.add(archivoelegido);
-                    textAreaCola.append("· " + archivoelegido + "\n");
-                }else{
-                    JOptionPane.showMessageDialog(frame, "El archivo seleccionado no existe.");
+            //FileChooser
+            JFileChooser selectordearchivos = new JFileChooser();
+            selectordearchivos.setDialogTitle("Selecciona los archivos que quieran ser añadidos a la cola");
+            selectordearchivos.setMultiSelectionEnabled(true);
+            selectordearchivos.setFileSelectionMode(JFileChooser.FILES_ONLY);
+            int resultado = selectordearchivos.showOpenDialog(frame);
+            if(resultado == JFileChooser.APPROVE_OPTION){
+                File[] archivosElegidos = selectordearchivos.getSelectedFiles();
+                for(File archivo : archivosElegidos){
+                    if(archivo.exists()){
+                        String nombrearchivo = archivo.getName();
+                        Ficherosencola.add(nombrearchivo);
+                        textAreaCola.append("-" + nombrearchivo + "\n");
+                    }else {
+                        JOptionPane.showMessageDialog(frame,"Algun archivo seleccionado no es valido");
+                    }
                 }
-            }else{
-                JOptionPane.showMessageDialog(frame, "No se ha seleccionado nada");
             }
         });
         //Accion del boton imprimir
-        btnImprimir.addActionListener(e -> {
+        /*btnImprimir.addActionListener(e -> {
             //Selecciona el archivo por el nombre
-            String seleccionado = (String) comboBox.getSelectedItem();
-            if (seleccionado != null) {
-                File archivoSeleccionado = new File(directorio, seleccionado);
-                if (archivoSeleccionado.exists() && archivoSeleccionado.isFile()) {
-                    // Crea un trabajo de impresión y lo añade a la cola
-                    TrabajoImpresion trabajo = new TrabajoImpresion(seleccionado, archivoSeleccionado);
-                    colaDeImpresion.add(trabajo);
-                    textArea.setText("Fichero " + seleccionado + " enviado a la cola de impresión.");
-                    System.out.println("Se ha añadido a la cola de impresion: " + trabajo);
-                } else {
-                    JOptionPane.showMessageDialog(frame,"El archivo seleccionado no existe.");
-                }
-            } else {
-                JOptionPane.showMessageDialog(frame,"No se ha seleccionado ningún fichero.");
-            }
-        });
+           if (!Ficherosencola.isEmpty()){
+               for (String archivos : Ficherosencola){
+                   File
+               }
+           }
+        });*/
 
         JPanel panel = new JPanel();
         panel.setLayout(new FlowLayout(FlowLayout.CENTER));
         JSeparator separator = new JSeparator(SwingConstants.HORIZONTAL);
         separator.setPreferredSize(new Dimension(2,100));
-        panel.add(comboBox);
         panel.add(botonanadirALaCola);
-        panel.add(textAreaCola);
+        panel.add(scrollTextAraCola);
         panel.add(separator);
         panel.add(btnImprimir);
         panel.add(separator);
-        panel.add(textArea);
+        panel.add(scrollTextArea);
         frame.add(panel);
         frame.setVisible(true);
     }

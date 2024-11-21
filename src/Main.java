@@ -5,13 +5,13 @@ public class Main {
         ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion = new ConcurrentLinkedQueue<>();
         Menu.createMenu(colaDeImpresion); //Creacion del menu
 
-        int limiteImpresiones = 5;
+
         int numeroImpresoras = 3;
         Impresoras[] impresoras = new Impresoras[numeroImpresoras];
 
         //Crea las impresoras
         for (int i = 0; i<numeroImpresoras;i++){
-            impresoras[i] = new Impresoras(colaDeImpresion, limiteImpresiones);
+            impresoras[i] = new Impresoras(colaDeImpresion, (int) Math.floor(Math.random()*(6-2)+1));
         }
 
         //Crea los hilos y los ejecuta

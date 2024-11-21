@@ -19,6 +19,9 @@ public class TrabajoImpresion {
 
     @Override
     public String toString() {
-        return nombreArchivo;
+        return "TrabajoImpresion{" +
+                "nombreArchivo='" + nombreArchivo + '\'' +
+                ", archivo=" + archivo +
+                '}';
     }
 }

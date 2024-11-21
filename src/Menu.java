@@ -14,8 +14,12 @@ public class Menu {
         frame.setResizable(false);
         frame.setLocationRelativeTo(null);
         Font font = new Font("SansSerif", Font.BOLD, 18);
+        TextField titulo = new TextField("Impresiones Triple J");
+        titulo.setPreferredSize(new Dimension(500, 50));
+        Font fonttitulo = new Font("SansSerif", Font.BOLD, 30);
+        titulo.setFont(fonttitulo);
+        titulo.setEditable(false);
         //Añadir a la cola de impresion
-
         JButton botonanadirALaCola = new JButton("Añadir a la cola");
         botonanadirALaCola.setPreferredSize(new Dimension(300, 50));
         botonanadirALaCola.setFont(font);
@@ -54,14 +58,14 @@ public class Menu {
             selectordearchivos.setMultiSelectionEnabled(true);
             selectordearchivos.setFileSelectionMode(JFileChooser.FILES_ONLY);
             int resultado = selectordearchivos.showOpenDialog(frame);
-            if(resultado == JFileChooser.APPROVE_OPTION){
+            if (resultado == JFileChooser.APPROVE_OPTION) {
                 File[] archivosElegidos = selectordearchivos.getSelectedFiles();
-                for(File archivo : archivosElegidos){
-                    if(archivo.exists()){
+                for (File archivo : archivosElegidos) {
+                    if (archivo.exists()) {
                         Ficherosencola.add(archivo);
                         textAreaCola.append("-" + archivo.getName() + "\n");
-                    }else {
-                        JOptionPane.showMessageDialog(frame,"Algun archivo seleccionado no es valido");
+                    } else {
+                        JOptionPane.showMessageDialog(frame, "Algun archivo seleccionado no es valido");
                     }
                 }
             }
@@ -76,16 +80,17 @@ public class Menu {
                         textArea.append("Se ha añadido a la cola de impresión: " + trabajo + "\n");
                     }
                 }
-                JOptionPane.showMessageDialog(frame,"Todos los archivos se han enviado a la cola de impresión.");
             } else {
-                JOptionPane.showMessageDialog(frame,"No hay archivos en la lista para imprimir.");
+                JOptionPane.showMessageDialog(frame, "No hay archivos en la lista para imprimir.");
             }
+            JOptionPane.showMessageDialog(frame, "Todos los archivos se han enviado a la cola de impresión.");
         });
 
         JPanel panel = new JPanel();
         panel.setLayout(new FlowLayout(FlowLayout.CENTER));
         JSeparator separator = new JSeparator(SwingConstants.HORIZONTAL);
-        separator.setPreferredSize(new Dimension(2,100));
+        separator.setPreferredSize(new Dimension(2, 100));
+        panel.add(titulo);
         panel.add(botonanadirALaCola);
         panel.add(scrollTextAraCola);
         panel.add(separator);

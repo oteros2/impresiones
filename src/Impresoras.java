@@ -1,4 +1,5 @@
 import javax.swing.*;
+import java.awt.*;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -18,6 +19,8 @@ class Impresoras implements Runnable {
 
     @Override
     public void run() {
+        Random random = new Random();
+        Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
         while (true) {
             if (contadorImpresiones < limiteImpresiones) {
                 TrabajoImpresion trabajo = colaDeImpresion.poll(); //intenta extraer un documentode la cola y en caso contrario espera un breve tiempo
@@ -26,7 +29,15 @@ class Impresoras implements Runnable {
                         System.out.println(Thread.currentThread().getName() + " está imprimiendo: " + trabajo.getNombreArchivo());
                         String linea;
                         while ((linea = br.readLine()) != null) {
-                            JOptionPane.showMessageDialog(null, Thread.currentThread().getName() + ": " + linea); //
+                            int width = screenSize.width;
+                            int height = screenSize.height;
+                            int x = random.nextInt(width - 300);
+                            int y = random.nextInt(height - 200);
+                            JFrame frame = new JFrame();
+                            frame.setUndecorated(true);
+                            frame.setBounds(x, y, 1, 1);
+                            frame.setVisible(true);
+                            JOptionPane.showMessageDialog(frame, Thread.currentThread().getName() + ": " + linea);
                         }
                         contadorImpresiones++;
                     } catch (IOException e) {
@@ -48,7 +59,6 @@ class Impresoras implements Runnable {
                 System.out.println("["+Thread.currentThread().getName() + " ha alcanzado su límite de impresiones (" + limiteImpresiones + "). Esperando para reiniciar...]");
 
                 try {
-                    Random random = new Random();
                     int tiempoEspera = random.nextInt(11) * 1000;
                     System.out.println("Tiempo estimado de espera "+tiempoEspera/1000+" s");// Genera un número aleatorio entre 0 y 10 (en milisegundos)
                     Thread.sleep(tiempoEspera);

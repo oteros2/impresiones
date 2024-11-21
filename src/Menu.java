@@ -46,7 +46,7 @@ public class Menu {
         scrollTextArea.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
         scrollTextArea.setHorizontalScrollBarPolicy(ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
         //Accion del boton añadir a la cola
-        ArrayList<String> Ficherosencola = new ArrayList<>();
+        ArrayList<File> Ficherosencola = new ArrayList<>();
         botonanadirALaCola.addActionListener(e -> {
             //FileChooser
             JFileChooser selectordearchivos = new JFileChooser();
@@ -58,9 +58,8 @@ public class Menu {
                 File[] archivosElegidos = selectordearchivos.getSelectedFiles();
                 for(File archivo : archivosElegidos){
                     if(archivo.exists()){
-                        String nombrearchivo = archivo.getName();
-                        Ficherosencola.add(nombrearchivo);
-                        textAreaCola.append("-" + nombrearchivo + "\n");
+                        Ficherosencola.add(archivo);
+                        textAreaCola.append("-" + archivo.getName() + "\n");
                     }else {
                         JOptionPane.showMessageDialog(frame,"Algun archivo seleccionado no es valido");
                     }
@@ -70,12 +69,11 @@ public class Menu {
         //Accion del boton imprimir
         btnImprimir.addActionListener(e -> {
             if (!Ficherosencola.isEmpty()) {
-                for (String nombreArchivo : Ficherosencola) {
-                    File archivoSeleccionado = new File(nombreArchivo);
-                    if (archivoSeleccionado.exists() && archivoSeleccionado.isFile()) {
-                        TrabajoImpresion trabajo = new TrabajoImpresion(nombreArchivo, archivoSeleccionado);
+                for (File archivo : Ficherosencola) {
+                    if (archivo.exists() && archivo.isFile()) {
+                        TrabajoImpresion trabajo = new TrabajoImpresion(archivo.getName(), archivo);
                         colaDeImpresion.add(trabajo);
-                        textArea.append("Se ha añadido a la cola de impresión: " + trabajo);
+                        textArea.append("Se ha añadido a la cola de impresión: " + trabajo + "\n");
                     }
                 }
                 JOptionPane.showMessageDialog(frame,"Todos los archivos se han enviado a la cola de impresión.");

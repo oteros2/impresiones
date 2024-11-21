@@ -73,20 +73,19 @@ public class Menu {
             }
         });
 
-        //Accion del boton imprimir
+        // Acción del botón "Imprimir"
         btnImprimir.addActionListener(e -> {
-            if (!Ficherosencola.isEmpty()) {
-                for (File archivo : Ficherosencola) {
-                    if (archivo.exists() && archivo.isFile()) {
-                        TrabajoImpresion trabajo = new TrabajoImpresion(archivo.getName(), archivo);
-                        colaDeImpresion.add(trabajo);
-                        textArea.append("Se ha añadido a la cola de impresión: " + trabajo + "\n");
-                    }
+            if (!archivosSeleccionados.isEmpty()) {
+                for (File archivo : archivosSeleccionados) {
+                    // Enviar a la cola
+                    colaDeImpresion.add(new TrabajoImpresion(archivo.getName(), archivo));
+                    textArea.append("Archivo enviado a la cola de impresión: " + archivo.getName() + "\n");
+                    System.out.println("Enviado a impresión: " + archivo.getAbsolutePath());
                 }
+                archivosSeleccionados.clear(); // Limpiar la lista temporal tras enviar los archivos a la cola
             } else {
-                JOptionPane.showMessageDialog(frame, "No hay archivos en la lista para imprimir.");
+                textArea.append("No hay archivos seleccionados para imprimir.\n");
             }
-            JOptionPane.showMessageDialog(frame, "Todos los archivos se han enviado a la cola de impresión.");
         });
 
         JPanel panel = new JPanel();

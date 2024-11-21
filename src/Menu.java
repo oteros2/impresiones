@@ -7,31 +7,34 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class Menu {
     static void createMenu(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion) {
-        //marco de la ventana
         JFrame frame = new JFrame("Selector de Fichero");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(700, 600);
+        frame.setSize(700, 400);  // Tamaño reducido
         frame.setResizable(false);
         frame.setLocationRelativeTo(null);
         Font font = new Font("SansSerif", Font.BOLD, 18);
-        TextField titulo = new TextField("Impresiones Triple J");
-        titulo.setPreferredSize(new Dimension(500, 50));
-        Font fonttitulo = new Font("SansSerif", Font.BOLD, 30);
-        titulo.setFont(fonttitulo);
-        titulo.setEditable(false);
-        //Añadir a la cola de impresion
-        JButton botonanadirALaCola = new JButton("Añadir a la cola");
-        botonanadirALaCola.setPreferredSize(new Dimension(300, 50));
-        botonanadirALaCola.setFont(font);
 
-        JTextArea textAreaCola = new JTextArea();
-        textAreaCola.setEditable(false);
-        textAreaCola.setBackground(Color.LIGHT_GRAY);
-        textAreaCola.setFont(font);
+        List<File> archivosSeleccionados = new ArrayList<>();
 
-        // Barras de deslizamiento para el text area
-        JScrollPane scrollTextAraCola = new JScrollPane(textAreaCola);
-        scrollTextAraCola.setPreferredSize(new Dimension(600, 150));
+        // Crear botón de selección de archivos
+        JButton btnSeleccionar = new JButton("Seleccionar Archivos");
+        btnSeleccionar.setPreferredSize(new Dimension(300, 50));
+        btnSeleccionar.setFont(font);
+
+        // Crear botón de imprimir
+        JButton btnImprimir = new JButton("Imprimir");
+        btnImprimir.setPreferredSize(new Dimension(300, 50));
+        btnImprimir.setFont(font);
+
+        // Crear área de texto
+        JTextArea textArea = new JTextArea();
+        textArea.setEditable(false);
+        textArea.setBackground(Color.LIGHT_GRAY);
+        textArea.setFont(font);
+
+        JScrollPane scrollPane = new JScrollPane(textArea);
+        scrollPane.setPreferredSize(new Dimension(600, 150));
+
         scrollTextAraCola.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
         scrollTextAraCola.setHorizontalScrollBarPolicy(ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
         //boton imprimir

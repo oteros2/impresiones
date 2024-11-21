@@ -50,29 +50,29 @@ public class Menu {
         // Barras de deslizamiento para el text area
         JScrollPane scrollTextArea = new JScrollPane(textArea);
         scrollTextArea.setPreferredSize(new Dimension(600, 150));
-        scrollTextArea.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
-        scrollTextArea.setHorizontalScrollBarPolicy(ScrollPaneConstants.HORIZONTAL_SCROLLBAR_NEVER);
-        //Accion del boton añadir a la cola
-        ArrayList<File> Ficherosencola = new ArrayList<>();
-        botonanadirALaCola.addActionListener(e -> {
-            //FileChooser
-            JFileChooser selectordearchivos = new JFileChooser();
-            selectordearchivos.setDialogTitle("Selecciona los archivos que quieran ser añadidos a la cola");
-            selectordearchivos.setMultiSelectionEnabled(true);
-            selectordearchivos.setFileSelectionMode(JFileChooser.FILES_ONLY);
-            int resultado = selectordearchivos.showOpenDialog(frame);
-            if (resultado == JFileChooser.APPROVE_OPTION) {
-                File[] archivosElegidos = selectordearchivos.getSelectedFiles();
-                for (File archivo : archivosElegidos) {
-                    if (archivo.exists()) {
-                        Ficherosencola.add(archivo);
-                        textAreaCola.append("-" + archivo.getName() + "\n");
-                    } else {
-                        JOptionPane.showMessageDialog(frame, "Algun archivo seleccionado no es valido");
-                    }
+
+        // Acción del botón "Seleccionar Archivos"
+        btnSeleccionar.addActionListener(e -> {
+            JFileChooser fileChooser = new JFileChooser();
+            // Permite selección múltiple
+            fileChooser.setMultiSelectionEnabled(true);
+            // Solo archivos
+            fileChooser.setFileSelectionMode(JFileChooser.FILES_ONLY);
+
+            int result = fileChooser.showOpenDialog(frame);
+            if (result == JFileChooser.APPROVE_OPTION) {
+                File[] selectedFiles = fileChooser.getSelectedFiles();
+                archivosSeleccionados.clear(); // Limpiar la lista temporal
+                textArea.setText(""); // Limpiar el área de texto
+                for (File file : selectedFiles) {
+                    archivosSeleccionados.add(file); // Almacenar en la lista temporal
+                    textArea.append("Archivo seleccionado: " + file.getName() + "\n");
                 }
+            } else {
+                textArea.setText("Selección cancelada.\n");
             }
         });
+
         //Accion del boton imprimir
         btnImprimir.addActionListener(e -> {
             if (!Ficherosencola.isEmpty()) {

@@ -52,7 +52,7 @@ class Impresoras implements Runnable {
                         dialog.setVisible(true);
                         dialog.dispose();
                         contadorImpresiones++;
-                    }catch  (InterruptedException | IOException e) {
+                    }catch  (IOException e) {
                         throw new RuntimeException(e);
                     }
                     try {

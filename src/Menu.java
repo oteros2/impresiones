@@ -1,13 +1,16 @@
 import javax.swing.*;
 import java.awt.*;
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.IOException;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.Date;
 import java.util.List;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class Menu {
-    static void createMenu(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion) {
+    static void createMenu(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion, BufferedWriter bw) {
         // Crear el marco de la ventana
         JFrame frame = new JFrame("Selector de Fichero");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -43,11 +46,11 @@ public class Menu {
             JFileChooser fileChooser = new JFileChooser();
             // Permite selección múltiple
             fileChooser.setMultiSelectionEnabled(true);
-            // Solo archivos
+            // Permite la selección solo de archivos
             fileChooser.setFileSelectionMode(JFileChooser.FILES_ONLY);
-
             int result = fileChooser.showOpenDialog(frame);
             if (result == JFileChooser.APPROVE_OPTION) {
+                //Crea una array donde almacena los ficheros seleccionados
                 File[] selectedFiles = fileChooser.getSelectedFiles();
                 archivosSeleccionados.clear(); // Limpiar la lista temporal
                 textArea.setText(""); // Limpiar el área de texto
@@ -67,6 +70,12 @@ public class Menu {
                     // Enviar a la cola
                     colaDeImpresion.add(new TrabajoImpresion(archivo.getName(), archivo));
                     textArea.append("Archivo enviado a la cola de impresión: " + archivo.getName() + "\n");
+                    try {
+                        bw.write(new Date() + " Enviado a impresión: " + archivo.getAbsolutePath() + "\n");
+                        bw.flush();
+                    } catch (IOException ex) {
+                        throw new RuntimeException(ex);
+                    }
                     System.out.println("Enviado a impresión: " + archivo.getAbsolutePath());
                 }
                 archivosSeleccionados.clear(); // Limpiar la lista temporal tras enviar los archivos a la cola

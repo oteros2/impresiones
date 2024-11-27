@@ -13,12 +13,18 @@ class Impresoras implements Runnable {
     private int limiteImpresiones;    // Límite de impresiones antes de reiniciar
     private int contadorImpresiones;   // Contador actual de impresiones
     private BufferedWriter bw;
+    private int precio;
 
-    public Impresoras(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion, int limiteImpresiones, BufferedWriter bw) {
+    public Impresoras(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion, int limiteImpresiones, BufferedWriter bw, int precio) {
         this.colaDeImpresion = colaDeImpresion;
         this.limiteImpresiones = limiteImpresiones;
         this.contadorImpresiones = 0;
         this.bw = bw;
+        this.precio = precio;
+    }
+
+    public int getPrecio() {
+        return precio;
     }
 
     @Override
@@ -93,7 +99,7 @@ class Impresoras implements Runnable {
 
                 try {
                     Random random = new Random();
-                    int tiempoEspera = (random.nextInt(11) * 1000) + 1;
+                    int tiempoEspera = (random.nextInt(21) * 1000) + 1;
                     bw.write(new Date() + " Tiempo estimado de espera para  " + Thread.currentThread().getName() + " " + tiempoEspera / 1000 + " segundos" + "\n");
                     bw.flush();
                     System.out.println("Tiempo estimado de espera para  " + Thread.currentThread().getName() + " " + tiempoEspera / 1000 + " segundos");// Genera un número aleatorio entre 0 y 10 (en milisegundos)

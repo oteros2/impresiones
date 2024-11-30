@@ -1357,3 +1357,875 @@ Sat Nov 30 11:20:37 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones
 Sat Nov 30 11:20:37 CET 2024 Tiempo estimado de espera para  Impresora 3 10 segundos
 Sat Nov 30 11:20:43 CET 2024 Impresora 1 está lista para imprimir nuevamente.
 Sat Nov 30 11:20:43 CET 2024 Impresora 1 está imprimiendo: archivo20.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 11:24:30 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 11:24:30 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 11:24:30 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 11:24:30 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 11:24:31 CET 2024 Impresora 3 está imprimiendo: archivo12.txt
+Sat Nov 30 11:24:31 CET 2024 Impresora 2 está imprimiendo: archivo13.txt
+Sat Nov 30 11:24:31 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:24:31 CET 2024 Tiempo estimado de espera para  Impresora 1 1 segundos
+Sat Nov 30 11:24:32 CET 2024 Impresora 2 está imprimiendo: archivo15.txt
+Sat Nov 30 11:24:32 CET 2024 Impresora 3 está imprimiendo: archivo14.txt
+Sat Nov 30 11:24:32 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 11:24:32 CET 2024 Impresora 1 está imprimiendo: archivo16.txt
+Sat Nov 30 11:24:33 CET 2024 Impresora 2 está imprimiendo: archivo17.txt
+Sat Nov 30 11:24:33 CET 2024 Impresora 3 está imprimiendo: archivo18.txt
+Sat Nov 30 11:24:33 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:24:33 CET 2024 Tiempo estimado de espera para  Impresora 1 17 segundos
+Sat Nov 30 11:24:34 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 11:24:34 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 11:24:34 CET 2024 Tiempo estimado de espera para  Impresora 2 15 segundos
+Sat Nov 30 11:24:34 CET 2024 Tiempo estimado de espera para  Impresora 3 4 segundos
+Sat Nov 30 11:24:38 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 11:24:38 CET 2024 Impresora 3 está imprimiendo: archivo19.txt
+Sat Nov 30 11:24:39 CET 2024 Impresora 3 está imprimiendo: archivo2.txt
+Sat Nov 30 11:24:40 CET 2024 Impresora 3 está imprimiendo: archivo20.txt
+Sat Nov 30 11:24:41 CET 2024 Impresora 3 está imprimiendo: archivo3.txt
+Sat Nov 30 11:24:42 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 11:24:42 CET 2024 Tiempo estimado de espera para  Impresora 3 16 segundos
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 11:26:15 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 11:26:15 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 11:26:15 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 11:26:15 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 11:26:16 CET 2024 Impresora 1 está imprimiendo: archivo12.txt
+Sat Nov 30 11:26:16 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:26:16 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:26:16 CET 2024 Tiempo estimado de espera para  Impresora 2 2 segundos
+Sat Nov 30 11:26:16 CET 2024 Tiempo estimado de espera para  Impresora 3 16 segundos
+Sat Nov 30 11:26:17 CET 2024 Impresora 1 está imprimiendo: archivo13.txt
+Sat Nov 30 11:26:18 CET 2024 Impresora 1 está imprimiendo: archivo14.txt
+Sat Nov 30 11:26:18 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 11:26:18 CET 2024 Impresora 2 está imprimiendo: archivo15.txt
+Sat Nov 30 11:26:19 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 11:26:19 CET 2024 Tiempo estimado de espera para  Impresora 1 14 segundos
+Sat Nov 30 11:26:19 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:26:19 CET 2024 Tiempo estimado de espera para  Impresora 2 15 segundos
+Sat Nov 30 11:26:32 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 11:26:32 CET 2024 Impresora 3 está imprimiendo: archivo16.txt
+Sat Nov 30 11:26:33 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 11:26:33 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:26:33 CET 2024 Tiempo estimado de espera para  Impresora 3 12 segundos
+Sat Nov 30 11:26:33 CET 2024 Impresora 1 está imprimiendo: archivo17.txt
+Sat Nov 30 11:26:34 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 11:26:34 CET 2024 Impresora 1 está imprimiendo: archivo18.txt
+Sat Nov 30 11:26:34 CET 2024 Impresora 2 está imprimiendo: archivo19.txt
+Sat Nov 30 11:26:35 CET 2024 Impresora 1 está imprimiendo: archivo2.txt
+Sat Nov 30 11:26:35 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:26:35 CET 2024 Tiempo estimado de espera para  Impresora 2 12 segundos
+Sat Nov 30 11:26:36 CET 2024 Impresora 1 está imprimiendo: archivo20.txt
+Sat Nov 30 11:26:37 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 11:26:37 CET 2024 Tiempo estimado de espera para  Impresora 1 10 segundos
+Sat Nov 30 11:26:45 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 11:26:45 CET 2024 Impresora 3 está imprimiendo: archivo3.txt
+Sat Nov 30 11:26:46 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:26:46 CET 2024 Tiempo estimado de espera para  Impresora 3 7 segundos
+Sat Nov 30 11:26:47 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 11:26:47 CET 2024 Impresora 2 está imprimiendo: archivo4.txt
+Sat Nov 30 11:26:47 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 11:26:47 CET 2024 Impresora 1 está imprimiendo: archivo5.txt
+Sat Nov 30 11:26:48 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:26:48 CET 2024 Tiempo estimado de espera para  Impresora 2 7 segundos
+Sat Nov 30 11:26:48 CET 2024 Impresora 1 está imprimiendo: archivo6.txt
+Sat Nov 30 11:26:49 CET 2024 Impresora 1 está imprimiendo: archivo7.txt
+Sat Nov 30 11:26:50 CET 2024 Impresora 1 está imprimiendo: archivo8.txt
+Sat Nov 30 11:26:51 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 11:26:51 CET 2024 Tiempo estimado de espera para  Impresora 1 15 segundos
+Sat Nov 30 11:26:53 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 11:26:53 CET 2024 Impresora 3 está imprimiendo: archivo9.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 11:27:59 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 11:27:59 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 11:27:59 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 11:27:59 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 11:28:00 CET 2024 Impresora 1 está imprimiendo: archivo13.txt
+Sat Nov 30 11:28:00 CET 2024 Impresora 3 está imprimiendo: archivo12.txt
+Sat Nov 30 11:28:00 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:28:00 CET 2024 Tiempo estimado de espera para  Impresora 2 16 segundos
+Sat Nov 30 11:28:01 CET 2024 Impresora 3 está imprimiendo: archivo15.txt
+Sat Nov 30 11:28:01 CET 2024 Impresora 1 está imprimiendo: archivo14.txt
+Sat Nov 30 11:28:02 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 11:28:02 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 11:28:02 CET 2024 Tiempo estimado de espera para  Impresora 3 0 segundos
+Sat Nov 30 11:28:02 CET 2024 Tiempo estimado de espera para  Impresora 1 10 segundos
+Sat Nov 30 11:28:02 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 11:28:02 CET 2024 Impresora 3 está imprimiendo: archivo16.txt
+Sat Nov 30 11:28:03 CET 2024 Impresora 3 está imprimiendo: archivo17.txt
+Sat Nov 30 11:28:04 CET 2024 Impresora 3 está imprimiendo: archivo18.txt
+Sat Nov 30 11:28:05 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 11:28:05 CET 2024 Tiempo estimado de espera para  Impresora 3 12 segundos
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 11:29:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 11:29:00 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 11:29:00 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 11:29:00 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 11:29:01 CET 2024 Impresora 3 está imprimiendo: archivo14.txt
+Sat Nov 30 11:29:01 CET 2024 Impresora 2 está imprimiendo: archivo13.txt
+Sat Nov 30 11:29:01 CET 2024 Impresora 1 está imprimiendo: archivo12.txt
+Sat Nov 30 11:29:02 CET 2024 Impresora 3 está imprimiendo: archivo15.txt
+Sat Nov 30 11:29:02 CET 2024 Impresora 2 está imprimiendo: archivo16.txt
+Sat Nov 30 11:29:02 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 11:29:02 CET 2024 Tiempo estimado de espera para  Impresora 1 8 segundos
+Sat Nov 30 11:29:03 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 11:29:03 CET 2024 Tiempo estimado de espera para  Impresora 2 6 segundos
+Sat Nov 30 11:29:03 CET 2024 Impresora 3 está imprimiendo: archivo17.txt
+Sat Nov 30 11:29:04 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 11:29:04 CET 2024 Tiempo estimado de espera para  Impresora 3 8 segundos
+Sat Nov 30 11:29:09 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 11:29:09 CET 2024 Impresora 2 está imprimiendo: archivo18.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 11:35:49 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 11:35:49 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 11:35:49 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 11:35:49 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 11:35:50 CET 2024 Impresora 1 está imprimiendo: archivo12.txt
+Sat Nov 30 11:35:50 CET 2024 Impresora 3 está imprimiendo: archivo13.txt
+Sat Nov 30 11:35:50 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:35:50 CET 2024 Tiempo estimado de espera para  Impresora 2 12 segundos
+Sat Nov 30 11:35:51 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 11:35:51 CET 2024 Tiempo estimado de espera para  Impresora 3 6 segundos
+Sat Nov 30 11:35:51 CET 2024 Impresora 1 está imprimiendo: archivo14.txt
+Sat Nov 30 11:35:52 CET 2024 Impresora 1 está imprimiendo: archivo15.txt
+Sat Nov 30 11:35:53 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 11:35:53 CET 2024 Tiempo estimado de espera para  Impresora 1 5 segundos
+Sat Nov 30 11:35:57 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 11:35:57 CET 2024 Impresora 3 está imprimiendo: archivo16.txt
+Sat Nov 30 11:35:58 CET 2024 Impresora 3 está imprimiendo: archivo17.txt
+Sat Nov 30 11:35:58 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 11:35:58 CET 2024 Impresora 1 está imprimiendo: archivo18.txt
+Sat Nov 30 11:35:59 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 11:35:59 CET 2024 Tiempo estimado de espera para  Impresora 3 8 segundos
+Sat Nov 30 11:35:59 CET 2024 Impresora 1 está imprimiendo: archivo19.txt
+Sat Nov 30 11:36:00 CET 2024 Impresora 1 está imprimiendo: archivo2.txt
+Sat Nov 30 11:43:35 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 11:43:35 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 11:43:35 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 11:43:35 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 11:43:35 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 11:43:35 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 11:43:35 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 11:43:35 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 11:43:35 CET 2024 Impresora 1 está imprimiendo: archivo3.txt
+Sat Nov 30 11:43:35 CET 2024 Impresora 2 está imprimiendo: archivo4.txt
+Sat Nov 30 11:43:35 CET 2024 Impresora 3 está imprimiendo: archivo5.txt
+Sat Nov 30 11:43:36 CET 2024 Impresora 2 está imprimiendo: archivo7.txt
+Sat Nov 30 11:43:36 CET 2024 Impresora 3 está imprimiendo: archivo8.txt
+Sat Nov 30 11:43:36 CET 2024 Impresora 1 está imprimiendo: archivo6.txt
+Sat Nov 30 11:43:37 CET 2024 Impresora 1 está imprimiendo: hola.txt
+Sat Nov 30 11:43:37 CET 2024 Impresora 3 está imprimiendo: archivo9.txt
+Sat Nov 30 11:43:37 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 11:43:37 CET 2024 Tiempo estimado de espera para  Impresora 2 8 segundos
+Sat Nov 30 11:43:37 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 11:44:27 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 11:44:27 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 11:44:27 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 11:44:27 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 11:44:28 CET 2024 Impresora 3 está imprimiendo: archivo12.txt
+Sat Nov 30 11:44:28 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:44:28 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:44:28 CET 2024 Tiempo estimado de espera para  Impresora 2 8 segundos
+Sat Nov 30 11:44:28 CET 2024 Tiempo estimado de espera para  Impresora 1 11 segundos
+Sat Nov 30 11:44:29 CET 2024 Impresora 3 está imprimiendo: archivo13.txt
+Sat Nov 30 11:44:30 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 11:44:30 CET 2024 Tiempo estimado de espera para  Impresora 3 0 segundos
+Sat Nov 30 11:44:30 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 11:44:30 CET 2024 Impresora 3 está imprimiendo: archivo14.txt
+Sat Nov 30 11:44:31 CET 2024 Impresora 3 está imprimiendo: archivo15.txt
+Sat Nov 30 11:44:32 CET 2024 Impresora 3 está imprimiendo: archivo16.txt
+Sat Nov 30 11:44:33 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 11:44:33 CET 2024 Tiempo estimado de espera para  Impresora 3 17 segundos
+Sat Nov 30 11:44:36 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 11:44:36 CET 2024 Impresora 2 está imprimiendo: archivo17.txt
+Sat Nov 30 11:44:37 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:44:37 CET 2024 Tiempo estimado de espera para  Impresora 2 14 segundos
+Sat Nov 30 11:44:39 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 11:44:39 CET 2024 Impresora 1 está imprimiendo: archivo18.txt
+Sat Nov 30 11:44:40 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:44:40 CET 2024 Tiempo estimado de espera para  Impresora 1 10 segundos
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 11:45:00 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 11:45:00 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 11:45:00 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 11:45:00 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 11:45:01 CET 2024 Impresora 3 está imprimiendo: archivo12.txt
+Sat Nov 30 11:45:01 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:45:01 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:45:01 CET 2024 Tiempo estimado de espera para  Impresora 2 10 segundos
+Sat Nov 30 11:45:01 CET 2024 Tiempo estimado de espera para  Impresora 1 1 segundos
+Sat Nov 30 11:45:02 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 11:45:02 CET 2024 Tiempo estimado de espera para  Impresora 3 14 segundos
+Sat Nov 30 11:45:02 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 11:45:02 CET 2024 Impresora 1 está imprimiendo: archivo13.txt
+Sat Nov 30 11:45:03 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:45:03 CET 2024 Tiempo estimado de espera para  Impresora 1 10 segundos
+Sat Nov 30 11:45:11 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 11:45:11 CET 2024 Impresora 2 está imprimiendo: archivo14.txt
+Sat Nov 30 11:45:12 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:45:12 CET 2024 Tiempo estimado de espera para  Impresora 2 6 segundos
+Sat Nov 30 11:45:13 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 11:45:13 CET 2024 Impresora 1 está imprimiendo: archivo15.txt
+Sat Nov 30 11:45:14 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:45:14 CET 2024 Tiempo estimado de espera para  Impresora 1 18 segundos
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 11:46:17 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 11:46:17 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 11:46:17 CET 2024 Impresora 1 está imprimiendo: archivo10.txt
+Sat Nov 30 11:46:17 CET 2024 Impresora 2 está imprimiendo: archivo1.txt
+Sat Nov 30 11:46:18 CET 2024 Impresora 1 está imprimiendo: archivo13.txt
+Sat Nov 30 11:46:18 CET 2024 Impresora 3 está imprimiendo: archivo12.txt
+Sat Nov 30 11:46:18 CET 2024 Impresora 2 está imprimiendo: archivo14.txt
+Sat Nov 30 11:46:19 CET 2024 Impresora 1 está imprimiendo: archivo16.txt
+Sat Nov 30 11:46:19 CET 2024 Impresora 3 está imprimiendo: archivo15.txt
+Sat Nov 30 11:46:19 CET 2024 Impresora 2 está imprimiendo: archivo17.txt
+Sat Nov 30 11:46:20 CET 2024 Impresora 1 está imprimiendo: archivo18.txt
+Sat Nov 30 11:46:20 CET 2024 Impresora 3 está imprimiendo: archivo19.txt
+Sat Nov 30 11:46:20 CET 2024 Impresora 2 está imprimiendo: archivo2.txt
+Sat Nov 30 11:46:21 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 11:46:21 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 11:46:21 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 11:46:21 CET 2024 Tiempo estimado de espera para  Impresora 2 1 segundos
+Sat Nov 30 11:46:21 CET 2024 Tiempo estimado de espera para  Impresora 1 9 segundos
+Sat Nov 30 11:46:21 CET 2024 Tiempo estimado de espera para  Impresora 3 7 segundos
+Sat Nov 30 11:46:22 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 11:46:22 CET 2024 Impresora 2 está imprimiendo: archivo20.txt
+Sat Nov 30 11:46:23 CET 2024 Impresora 2 está imprimiendo: archivo3.txt
+Sat Nov 30 11:46:24 CET 2024 Impresora 2 está imprimiendo: archivo4.txt
+Sat Nov 30 11:46:25 CET 2024 Impresora 2 está imprimiendo: archivo5.txt
+Sat Nov 30 11:46:26 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 11:46:26 CET 2024 Tiempo estimado de espera para  Impresora 2 12 segundos
+Sat Nov 30 11:46:28 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 11:46:28 CET 2024 Impresora 3 está imprimiendo: archivo6.txt
+Sat Nov 30 11:46:29 CET 2024 Impresora 3 está imprimiendo: archivo7.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 11:46:40 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 11:46:40 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 11:46:40 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 11:46:40 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 11:46:41 CET 2024 Impresora 2 está imprimiendo: archivo12.txt
+Sat Nov 30 11:46:41 CET 2024 Impresora 3 está imprimiendo: archivo13.txt
+Sat Nov 30 11:46:41 CET 2024 Impresora 1 está imprimiendo: archivo14.txt
+Sat Nov 30 11:46:42 CET 2024 Impresora 2 está imprimiendo: archivo15.txt
+Sat Nov 30 11:46:42 CET 2024 Impresora 1 está imprimiendo: archivo16.txt
+Sat Nov 30 11:46:42 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 11:46:42 CET 2024 Tiempo estimado de espera para  Impresora 3 7 segundos
+Sat Nov 30 11:46:43 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 11:46:43 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 11:46:43 CET 2024 Tiempo estimado de espera para  Impresora 2 15 segundos
+Sat Nov 30 11:46:43 CET 2024 Tiempo estimado de espera para  Impresora 1 14 segundos
+Sat Nov 30 11:46:49 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 11:46:49 CET 2024 Impresora 3 está imprimiendo: archivo17.txt
+Sat Nov 30 11:46:50 CET 2024 Impresora 3 está imprimiendo: archivo18.txt
+Sat Nov 30 11:46:51 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 11:46:51 CET 2024 Tiempo estimado de espera para  Impresora 3 4 segundos
+Sat Nov 30 11:46:55 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 11:46:55 CET 2024 Impresora 3 está imprimiendo: archivo19.txt
+Sat Nov 30 11:46:56 CET 2024 Impresora 3 está imprimiendo: archivo2.txt
+Sat Nov 30 11:46:57 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 11:46:57 CET 2024 Impresora 1 está imprimiendo: archivo20.txt
+Sat Nov 30 11:46:57 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 11:46:57 CET 2024 Tiempo estimado de espera para  Impresora 3 7 segundos
+Sat Nov 30 11:46:58 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 11:46:58 CET 2024 Impresora 2 está imprimiendo: archivo3.txt
+Sat Nov 30 11:46:58 CET 2024 Impresora 1 está imprimiendo: archivo4.txt
+Sat Nov 30 11:46:59 CET 2024 Impresora 2 está imprimiendo: archivo5.txt
+Sat Nov 30 11:46:59 CET 2024 Impresora 1 está imprimiendo: archivo6.txt
+Sat Nov 30 11:47:00 CET 2024 Impresora 2 está imprimiendo: archivo7.txt
+Sat Nov 30 11:47:00 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 11:47:00 CET 2024 Tiempo estimado de espera para  Impresora 1 10 segundos
+Sat Nov 30 11:47:01 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 11:47:01 CET 2024 Tiempo estimado de espera para  Impresora 2 17 segundos
+Sat Nov 30 11:47:04 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 11:47:04 CET 2024 Impresora 3 está imprimiendo: archivo8.txt
+Sat Nov 30 11:47:05 CET 2024 Impresora 3 está imprimiendo: archivo9.txt
+Sat Nov 30 11:47:06 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 11:47:06 CET 2024 Tiempo estimado de espera para  Impresora 3 12 segundos
+Sat Nov 30 11:47:10 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 11:47:10 CET 2024 Impresora 1 está imprimiendo: hola.txt
+Sat Nov 30 11:47:18 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 11:47:18 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 11:47:29 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 11:47:29 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 11:47:29 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 11:47:29 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 11:47:30 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:47:30 CET 2024 Tiempo estimado de espera para  Impresora 2 9 segundos
+Sat Nov 30 11:47:30 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 11:47:30 CET 2024 Tiempo estimado de espera para  Impresora 1 10 segundos
+Sat Nov 30 11:47:30 CET 2024 Impresora 3 está imprimiendo: archivo12.txt
+Sat Nov 30 11:47:31 CET 2024 Impresora 3 está imprimiendo: archivo13.txt
+Sat Nov 30 11:47:32 CET 2024 Impresora 3 está imprimiendo: archivo14.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 11:47:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 11:47:48 CET 2024 Impresora 2 está imprimiendo: archivo1.txt
+Sat Nov 30 11:47:48 CET 2024 Impresora 1 está imprimiendo: archivo10.txt
+Sat Nov 30 11:47:48 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 11:47:49 CET 2024 Impresora 1 está imprimiendo: archivo14.txt
+Sat Nov 30 11:47:49 CET 2024 Impresora 3 está imprimiendo: archivo12.txt
+Sat Nov 30 11:47:49 CET 2024 Impresora 2 está imprimiendo: archivo13.txt
+Sat Nov 30 11:47:50 CET 2024 Impresora 1 está imprimiendo: archivo15.txt
+Sat Nov 30 11:47:50 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 11:47:50 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 11:47:50 CET 2024 Tiempo estimado de espera para  Impresora 2 0 segundos
+Sat Nov 30 11:47:50 CET 2024 Tiempo estimado de espera para  Impresora 3 8 segundos
+Sat Nov 30 11:47:50 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 11:47:50 CET 2024 Impresora 2 está imprimiendo: archivo16.txt
+Sat Nov 30 11:47:51 CET 2024 Impresora 1 está imprimiendo: archivo17.txt
+Sat Nov 30 11:47:51 CET 2024 Impresora 2 está imprimiendo: archivo18.txt
+Sat Nov 30 11:47:52 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 11:47:52 CET 2024 Tiempo estimado de espera para  Impresora 1 19 segundos
+Sat Nov 30 11:47:52 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 11:47:52 CET 2024 Tiempo estimado de espera para  Impresora 2 0 segundos
+Sat Nov 30 11:47:52 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 11:47:52 CET 2024 Impresora 2 está imprimiendo: archivo19.txt
+Sat Nov 30 11:47:53 CET 2024 Impresora 2 está imprimiendo: archivo2.txt
+Sat Nov 30 11:47:54 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 11:47:54 CET 2024 Tiempo estimado de espera para  Impresora 2 15 segundos
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 12:02:12 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 12:03:53 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 12:03:53 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 12:04:13 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 12:04:13 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 12:04:13 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 12:04:13 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 12:04:14 CET 2024 Impresora 1 está imprimiendo: archivo12.txt
+Sat Nov 30 12:04:14 CET 2024 Impresora 2 está imprimiendo: archivo14.txt
+Sat Nov 30 12:04:14 CET 2024 Impresora 3 está imprimiendo: archivo13.txt
+Sat Nov 30 12:04:15 CET 2024 Impresora 1 está imprimiendo: archivo15.txt
+Sat Nov 30 12:04:15 CET 2024 Impresora 2 está imprimiendo: archivo16.txt
+Sat Nov 30 12:04:15 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 12:04:15 CET 2024 Tiempo estimado de espera para  Impresora 3 14 segundos
+Sat Nov 30 12:04:16 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 12:04:16 CET 2024 Tiempo estimado de espera para  Impresora 1 2 segundos
+Sat Nov 30 12:04:16 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 12:04:16 CET 2024 Tiempo estimado de espera para  Impresora 2 12 segundos
+Sat Nov 30 12:04:18 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 12:04:18 CET 2024 Impresora 1 está imprimiendo: archivo17.txt
+Sat Nov 30 12:04:19 CET 2024 Impresora 1 está imprimiendo: archivo18.txt
+Sat Nov 30 12:04:20 CET 2024 Impresora 1 está imprimiendo: archivo19.txt
+Sat Nov 30 12:04:21 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 12:04:21 CET 2024 Tiempo estimado de espera para  Impresora 1 6 segundos
+Sat Nov 30 12:04:27 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 12:04:27 CET 2024 Impresora 1 está imprimiendo: archivo2.txt
+Sat Nov 30 12:04:28 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 12:04:28 CET 2024 Impresora 2 está imprimiendo: archivo20.txt
+Sat Nov 30 12:04:28 CET 2024 Impresora 1 está imprimiendo: archivo3.txt
+Sat Nov 30 12:04:29 CET 2024 Impresora 2 está imprimiendo: archivo4.txt
+Sat Nov 30 12:04:29 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 12:04:29 CET 2024 Impresora 3 está imprimiendo: archivo5.txt
+Sat Nov 30 12:04:29 CET 2024 Impresora 1 está imprimiendo: archivo6.txt
+Sat Nov 30 12:04:30 CET 2024 Impresora 2 está imprimiendo: archivo7.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 12:13:16 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 12:13:16 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 12:13:16 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 12:13:16 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 12:13:17 CET 2024 Impresora 3 está imprimiendo: archivo14.txt
+Sat Nov 30 12:13:17 CET 2024 Impresora 2 está imprimiendo: archivo12.txt
+Sat Nov 30 12:13:17 CET 2024 Impresora 1 está imprimiendo: archivo13.txt
+Sat Nov 30 12:13:18 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 12:13:18 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 12:13:18 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 12:13:18 CET 2024 Tiempo estimado de espera para  Impresora 2 6 segundos
+Sat Nov 30 12:13:18 CET 2024 Tiempo estimado de espera para  Impresora 1 3 segundos
+Sat Nov 30 12:13:18 CET 2024 Tiempo estimado de espera para  Impresora 3 18 segundos
+Sat Nov 30 12:13:21 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 12:13:21 CET 2024 Impresora 1 está imprimiendo: archivo15.txt
+Sat Nov 30 12:13:22 CET 2024 Impresora 1 está imprimiendo: archivo16.txt
+Sat Nov 30 12:13:23 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 12:13:23 CET 2024 Tiempo estimado de espera para  Impresora 1 4 segundos
+Sat Nov 30 12:13:24 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 12:13:24 CET 2024 Impresora 2 está imprimiendo: archivo17.txt
+Sat Nov 30 12:13:25 CET 2024 Impresora 2 está imprimiendo: archivo18.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 12:13:57 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 12:13:57 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 12:13:57 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 12:13:57 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 12:13:58 CET 2024 Impresora 1 está imprimiendo: archivo13.txt
+Sat Nov 30 12:13:58 CET 2024 Impresora 2 está imprimiendo: archivo14.txt
+Sat Nov 30 12:13:58 CET 2024 Impresora 3 está imprimiendo: archivo12.txt
+Sat Nov 30 12:13:59 CET 2024 Impresora 1 está imprimiendo: archivo15.txt
+Sat Nov 30 12:13:59 CET 2024 Impresora 2 está imprimiendo: archivo16.txt
+Sat Nov 30 12:13:59 CET 2024 Impresora 3 está imprimiendo: archivo17.txt
+Sat Nov 30 12:14:00 CET 2024 Impresora 3 está imprimiendo: archivo18.txt
+Sat Nov 30 12:14:00 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 12:14:00 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 12:14:00 CET 2024 Tiempo estimado de espera para  Impresora 1 10 segundos
+Sat Nov 30 12:14:00 CET 2024 Tiempo estimado de espera para  Impresora 2 9 segundos
+Sat Nov 30 12:14:01 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 12:14:01 CET 2024 Tiempo estimado de espera para  Impresora 3 0 segundos
+Sat Nov 30 12:14:01 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 12:14:01 CET 2024 Impresora 3 está imprimiendo: archivo19.txt
+Sat Nov 30 12:14:02 CET 2024 Impresora 3 está imprimiendo: archivo2.txt
+Sat Nov 30 12:14:03 CET 2024 Impresora 3 está imprimiendo: archivo20.txt
+Sat Nov 30 12:14:04 CET 2024 Impresora 3 está imprimiendo: archivo3.txt
+Sat Nov 30 12:14:05 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 12:14:05 CET 2024 Tiempo estimado de espera para  Impresora 3 12 segundos
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 12:16:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 12:16:55 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 12:16:55 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 12:16:55 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 12:16:56 CET 2024 Impresora 2 está imprimiendo: archivo12.txt
+Sat Nov 30 12:16:56 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:16:56 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:16:56 CET 2024 Tiempo estimado de espera para  Impresora 1 0 segundos
+Sat Nov 30 12:16:56 CET 2024 Tiempo estimado de espera para  Impresora 3 11 segundos
+Sat Nov 30 12:16:56 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 12:16:56 CET 2024 Impresora 1 está imprimiendo: archivo13.txt
+Sat Nov 30 12:16:57 CET 2024 Impresora 2 está imprimiendo: archivo14.txt
+Sat Nov 30 12:16:57 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:16:57 CET 2024 Tiempo estimado de espera para  Impresora 1 13 segundos
+Sat Nov 30 12:16:58 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Sat Nov 30 12:16:58 CET 2024 Tiempo estimado de espera para  Impresora 2 20 segundos
+Sat Nov 30 12:17:07 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 12:17:07 CET 2024 Impresora 3 está imprimiendo: archivo15.txt
+Sat Nov 30 12:17:08 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:17:08 CET 2024 Tiempo estimado de espera para  Impresora 3 9 segundos
+Sat Nov 30 12:17:10 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 12:17:10 CET 2024 Impresora 1 está imprimiendo: archivo16.txt
+Sat Nov 30 12:17:11 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:17:11 CET 2024 Tiempo estimado de espera para  Impresora 1 2 segundos
+Sat Nov 30 12:17:13 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sat Nov 30 12:17:13 CET 2024 Impresora 1 está imprimiendo: archivo17.txt
+Sat Nov 30 12:17:14 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:17:14 CET 2024 Tiempo estimado de espera para  Impresora 1 8 segundos
+Sat Nov 30 12:17:17 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sat Nov 30 12:17:17 CET 2024 Impresora 3 está imprimiendo: archivo18.txt
+Sat Nov 30 12:17:18 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 12:17:18 CET 2024 Impresora 2 está imprimiendo: archivo19.txt
+Sat Nov 30 12:17:18 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:17:18 CET 2024 Tiempo estimado de espera para  Impresora 3 5 segundos
+Sat Nov 30 12:17:19 CET 2024 Impresora 2 está imprimiendo: archivo2.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 12:18:48 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 12:18:48 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 12:18:48 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 12:18:48 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 12:18:49 CET 2024 Impresora 1 está imprimiendo: archivo14.txt
+Sat Nov 30 12:18:49 CET 2024 Impresora 3 está imprimiendo: archivo13.txt
+Sat Nov 30 12:18:49 CET 2024 Impresora 2 está imprimiendo: archivo12.txt
+Sat Nov 30 12:18:50 CET 2024 Impresora 1 está imprimiendo: archivo15.txt
+Sat Nov 30 12:18:50 CET 2024 Impresora 3 está imprimiendo: archivo16.txt
+Sat Nov 30 12:18:50 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 12:18:50 CET 2024 Tiempo estimado de espera para  Impresora 2 15 segundos
+Sat Nov 30 12:18:51 CET 2024 Impresora 1 está imprimiendo: archivo17.txt
+Sat Nov 30 12:18:51 CET 2024 Impresora 3 está imprimiendo: archivo18.txt
+Sat Nov 30 12:18:52 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 12:18:52 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 12:18:52 CET 2024 Tiempo estimado de espera para  Impresora 3 8 segundos
+Sat Nov 30 12:18:52 CET 2024 Tiempo estimado de espera para  Impresora 1 20 segundos
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 12:20:01 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 12:20:01 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 12:20:01 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 12:20:01 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 12:20:02 CET 2024 Impresora 1 está imprimiendo: archivo12.txt
+Sat Nov 30 12:20:02 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:20:02 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:20:02 CET 2024 Tiempo estimado de espera para  Impresora 3 14 segundos
+Sat Nov 30 12:20:02 CET 2024 Tiempo estimado de espera para  Impresora 2 0 segundos
+Sat Nov 30 12:20:02 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 12:20:02 CET 2024 Impresora 2 está imprimiendo: archivo13.txt
+Sat Nov 30 12:20:02 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 12:20:03 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:20:03 CET 2024 Tiempo estimado de espera para  Impresora 2 0 segundos
+Sat Nov 30 12:20:03 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 12:20:03 CET 2024 Impresora 2 está imprimiendo: archivo14.txt
+Sat Nov 30 12:20:04 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:20:04 CET 2024 Tiempo estimado de espera para  Impresora 2 14 segundos
+Sat Nov 30 12:20:08 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 12:20:08 CET 2024 Tiempo estimado de espera para  Impresora 1 18 segundos
+Sat Nov 30 12:20:12 CET 2024 Impresora 2 está imprimiendo: archivo15.txt
+Sat Nov 30 12:20:13 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:20:13 CET 2024 Tiempo estimado de espera para  Impresora 2 0 segundos
+Sat Nov 30 12:20:13 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 12:20:13 CET 2024 Impresora 2 está imprimiendo: archivo16.txt
+Sat Nov 30 12:20:14 CET 2024 Impresora 3 está imprimiendo: archivo17.txt
+Sat Nov 30 12:20:14 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:20:14 CET 2024 Tiempo estimado de espera para  Impresora 2 0 segundos
+Sat Nov 30 12:20:14 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sat Nov 30 12:20:14 CET 2024 Impresora 2 está imprimiendo: archivo18.txt
+Sat Nov 30 12:20:15 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:20:15 CET 2024 Tiempo estimado de espera para  Impresora 3 15 segundos
+Sat Nov 30 12:20:15 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Sat Nov 30 12:20:15 CET 2024 Tiempo estimado de espera para  Impresora 2 20 segundos
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo1.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo10.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo11.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo12.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo13.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo14.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo15.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo16.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo17.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo18.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo19.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo2.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo20.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo3.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo4.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo5.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo6.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo7.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo8.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/archivo9.txt
+Sat Nov 30 12:20:55 CET 2024 Enviado a impresión: /home/jose/Escritorio/copia/files/hola.txt
+Sat Nov 30 12:20:55 CET 2024 Impresora 3 está imprimiendo: archivo11.txt
+Sat Nov 30 12:20:55 CET 2024 Impresora 1 está imprimiendo: archivo1.txt
+Sat Nov 30 12:20:55 CET 2024 Impresora 2 está imprimiendo: archivo10.txt
+Sat Nov 30 12:20:56 CET 2024 Impresora 1 está imprimiendo: archivo14.txt
+Sat Nov 30 12:20:56 CET 2024 Impresora 3 está imprimiendo: archivo13.txt
+Sat Nov 30 12:20:56 CET 2024 Impresora 2 está imprimiendo: archivo12.txt
+Sat Nov 30 12:20:56 CET 2024 Impresora 1 está imprimiendo: archivo15.txt
+Sat Nov 30 12:20:57 CET 2024 Impresora 2 está imprimiendo: archivo17.txt
+Sat Nov 30 12:20:57 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sat Nov 30 12:20:57 CET 2024 Tiempo estimado de espera para  Impresora 3 4 segundos
+Sat Nov 30 12:20:58 CET 2024 Impresora 2 está imprimiendo: archivo18.txt
+Sat Nov 30 12:20:59 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Sat Nov 30 12:20:59 CET 2024 Tiempo estimado de espera para  Impresora 2 6 segundos

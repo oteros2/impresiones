@@ -10,5 +10,3 @@ public class Main {
         Menu.createMenu(colaDeImpresion, bw, NUM_IMPRESORAS); //Creacion del menu
     }
 }
-
-

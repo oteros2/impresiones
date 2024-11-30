@@ -11,6 +11,10 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 public class Menu {
 
     static void createMenu(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion, BufferedWriter bw, int numeroImpresoras) {
+        //definir la cantidad de hilos que vamos a usar
+        Thread[] impresoraHilos = new Thread[numeroImpresoras];
+        //definir la cantidad de impresoras que vamos a usar
+        Impresoras[] impresoras = new Impresoras[numeroImpresoras];
         // Crear el marco de la ventana
         JFrame frame = new JFrame("Selector de Fichero");
         JTextArea[] textAreas = new JTextArea[numeroImpresoras];
@@ -58,7 +62,7 @@ public class Menu {
         panelInferior.setPreferredSize(new Dimension(800, 600));
 
         JPanel panelImpresoras = new JPanel();
-        panelImpresoras.setLayout(new GridLayout(1,numeroImpresoras)); // 1 fila y numeroImpresoras columnas
+        panelImpresoras.setLayout(new GridLayout(1, numeroImpresoras)); // 1 fila y numeroImpresoras columnas
 
         for (int i = 0; i < numeroImpresoras; i++) {
             JPanel panelImpresora = new JPanel();
@@ -130,11 +134,46 @@ public class Menu {
                         throw new RuntimeException(ex);
                     }
                 }
-                Auxiliar.crearImpresoras(numeroImpresoras, bw, colaDeImpresion, textAreas);
                 archivosSeleccionados.clear(); // Limpiar la lista temporal tras enviar los archivos a la cola
+                int[] precios = new int[numeroImpresoras];
+
+                //Genera los precios aleatorios
+                for (int i = 0; i < precios.length; i++) {
+                    precios[i] = (int) Math.floor(Math.random() * 451 + 50);
+                }
+
+                //Crea las impresoras
+                for (int i = 0; i < numeroImpresoras; i++) {
+                    impresoras[i] = new Impresoras(colaDeImpresion, (int) Math.floor(Math.random() * (6 - 2) + 1), bw, precios[i], textAreas[i]);
+                }
+
+                //Crea los hilos y los ejecuta
+                for (int i = 0; i < impresoraHilos.length; i++) {
+                    int numeroImpresora = i + 1;
+                    impresoraHilos[i] = new Thread(impresoras[i], "Impresora " + numeroImpresora);
+                    if (impresoras[i].getPrecio() < 200) {
+                        impresoraHilos[i].setPriority(Thread.MAX_PRIORITY);
+                    } else {
+                        impresoraHilos[i].setPriority(Thread.MIN_PRIORITY);
+                    }
+                    impresoraHilos[i].start();
+                }
             } else {
                 textArea.append("No hay archivos seleccionados para imprimir.\n");
             }
         });
+        for (int i = 0; i < buttons.length; i++) {
+            final int index = i;
+            buttons[i].addActionListener(e -> {
+                if (impresoraHilos[index].isAlive()) {
+                    impresoraHilos[index].interrupt();
+                    textAreas[index].append("Impresora " + buttons[index].getText() + " ha sido detenida.\n");
+                } else {
+                    impresoraHilos[index] = new Thread(impresoras[index], "Impresora " + (index + 1));
+                    impresoraHilos[index].start();
+                    textAreas[index].append("Impresora " + buttons[index].getText() + " ha sido iniciada.\n");
+                }
+            });
+        }
     }
 }

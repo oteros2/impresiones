@@ -92,9 +92,7 @@ public class Menu {
         frame.setVisible(true);
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(1200, 1000);
-        frame.setResizable(false);
-        frame.setLocationRelativeTo(null);
+        frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
 
         // Acción del botón "Seleccionar Archivos"
         btnSeleccionar.addActionListener(e -> {
@@ -120,7 +118,6 @@ public class Menu {
 
         // Acción del botón "Imprimir"
         btnImprimir.addActionListener(e -> {
-            Auxiliar.crearImpresoras(numeroImpresoras, bw, colaDeImpresion, textAreas);
             if (!archivosSeleccionados.isEmpty()) {
                 for (File archivo : archivosSeleccionados) {
                     // Enviar a la cola
@@ -132,8 +129,8 @@ public class Menu {
                     } catch (IOException ex) {
                         throw new RuntimeException(ex);
                     }
-                    System.out.println("Enviado a impresión: " + archivo.getAbsolutePath());
                 }
+                Auxiliar.crearImpresoras(numeroImpresoras, bw, colaDeImpresion, textAreas);
                 archivosSeleccionados.clear(); // Limpiar la lista temporal tras enviar los archivos a la cola
             } else {
                 textArea.append("No hay archivos seleccionados para imprimir.\n");

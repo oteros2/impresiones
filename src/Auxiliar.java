@@ -15,7 +15,7 @@ public class Auxiliar {
 
         //Crea las impresoras
         for (int i = 0; i < numeroImpresoras; i++) {
-            impresoras[i] = new Impresoras(colaDeImpresion, (int) Math.floor(Math.random() * (6 - 2) + 1), bw, precios[i]);
+            impresoras[i] = new Impresoras(colaDeImpresion, (int) Math.floor(Math.random() * (6 - 2) + 1), bw, precios[i], textAreas[i]);
         }
 
         //Crea los hilos y los ejecuta

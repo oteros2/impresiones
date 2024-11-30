@@ -14,13 +14,15 @@ class Impresoras implements Runnable {
     private int contadorImpresiones;   // Contador actual de impresiones
     private BufferedWriter bw;
     private int precio;
+    JTextArea textArea;
 
-    public Impresoras(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion, int limiteImpresiones, BufferedWriter bw, int precio) {
+    public Impresoras(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion, int limiteImpresiones, BufferedWriter bw, int precio, JTextArea textArea) {
         this.colaDeImpresion = colaDeImpresion;
         this.limiteImpresiones = limiteImpresiones;
         this.contadorImpresiones = 0;
         this.bw = bw;
         this.precio = precio;
+        this.textArea = textArea;
     }
 
     public int getPrecio() {
@@ -29,7 +31,7 @@ class Impresoras implements Runnable {
 
     @Override
     public void run() {
-        while (true) {
+        while (!colaDeImpresion.isEmpty()) {
             if (contadorImpresiones < limiteImpresiones) {
                 //intenta extraer un documento de la cola de impresion
                 TrabajoImpresion trabajo = colaDeImpresion.poll();
@@ -39,39 +41,9 @@ class Impresoras implements Runnable {
                     JOptionPane option = new JOptionPane("", JOptionPane.INFORMATION_MESSAGE);
                     StringBuilder impresion = new StringBuilder();
                     try (BufferedReader br = new BufferedReader(new FileReader(trabajo.getArchivo()))) {
+                        textArea.append("imprimiendo " + trabajo.getNombreArchivo() + "\n");
                         bw.write(new Date() + " " + Thread.currentThread().getName() + " está imprimiendo: " + trabajo.getNombreArchivo() + "\n");
                         bw.flush();
-                        System.out.println(Thread.currentThread().getName() + " está imprimiendo: " + trabajo.getNombreArchivo());
-                        String linea;
-                        while ((linea = br.readLine()) != null) {
-                            impresion.append(linea + "\n");
-                        }
-                        option.setMessage(impresion);
-                        JDialog dialog = option.createDialog(Thread.currentThread().getName());
-
-                        //Calcula las medidas de la pantalla y las coordenadas para generar las ventanas de forma aleatoria
-                        //para que no queden solapadas
-                        int screenWidth = (int) java.awt.Toolkit.getDefaultToolkit().getScreenSize().getWidth();
-                        int screenHeight = (int) java.awt.Toolkit.getDefaultToolkit().getScreenSize().getHeight();
-                        int randomX = (int) (Math.random() * (screenWidth - dialog.getWidth()));
-                        int randomY = (int) (Math.random() * (screenHeight - dialog.getHeight()));
-                        dialog.setLocation(randomX, randomY);
-
-                        //Crea un hilo que se encarga de cerrar las ventanas emergentes
-                        new Thread(new Runnable() {
-                            @Override
-                            public void run() {
-                                try {
-                                    Thread.sleep(10000); //Tiempo en el que se cerraran las ventanas
-                                } catch (InterruptedException e) {
-                                    throw new RuntimeException(e);
-                                }
-                                dialog.setVisible(false);
-                            }
-                        }).start();
-
-                        dialog.setVisible(true);
-                        dialog.dispose();
                         contadorImpresiones++;
                     } catch (IOException e) {
                         throw new RuntimeException(e);
@@ -90,32 +62,33 @@ class Impresoras implements Runnable {
                 }
             } else {
                 try {
+                    textArea.append("Limite de " + limiteImpresiones + " impresiones alcanzado. Reiniciando..." + "\n");
                     bw.write(new Date() + " [" + Thread.currentThread().getName() + " ha alcanzado su límite de impresiones (" + limiteImpresiones + "). Esperando para reiniciar...]" + "\n");
                     bw.flush();
                 } catch (IOException e) {
                     throw new RuntimeException(e);
                 }
-                System.out.println("[" + Thread.currentThread().getName() + " ha alcanzado su límite de impresiones (" + limiteImpresiones + "). Esperando para reiniciar...]");
-
                 try {
                     Random random = new Random();
                     int tiempoEspera = (random.nextInt(21) * 1000) + 1;
+                    textArea.append("Tiempo estimado de espera " + tiempoEspera / 1000 + " segundos" + "\n");
                     bw.write(new Date() + " Tiempo estimado de espera para  " + Thread.currentThread().getName() + " " + tiempoEspera / 1000 + " segundos" + "\n");
                     bw.flush();
-                    System.out.println("Tiempo estimado de espera para  " + Thread.currentThread().getName() + " " + tiempoEspera / 1000 + " segundos");// Genera un número aleatorio entre 0 y 10 (en milisegundos)
                     Thread.sleep(tiempoEspera);
                 } catch (InterruptedException | IOException e) {
                     Thread.currentThread().interrupt();
                 }
-
                 contadorImpresiones = 0; // Reinicia el contador de impresiones
                 try {
+                    textArea.append("Imprimiendo de nuevo..." + "\n");
                     bw.write(new Date() + " " + Thread.currentThread().getName() + " está lista para imprimir nuevamente." + "\n");
                     bw.flush();
                 } catch (IOException e) {
                     throw new RuntimeException(e);
                 }
-                System.out.println(Thread.currentThread().getName() + " está lista para imprimir nuevamente.");
+            }
+            if (colaDeImpresion.isEmpty()) {
+                textArea.append("Impresiones terminadas. \n");
             }
         }
     }

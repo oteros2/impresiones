@@ -157,6 +157,7 @@ public class Menu {
                         impresoraHilos[i].setPriority(Thread.MIN_PRIORITY);
                     }
                     impresoraHilos[i].start();
+                    buttons[i].setBackground(Color.GREEN);
                 }
             } else {
                 textArea.append("No hay archivos seleccionados para imprimir.\n");
@@ -168,10 +169,12 @@ public class Menu {
                 if (impresoraHilos[index].isAlive()) {
                     impresoraHilos[index].interrupt();
                     textAreas[index].append("Impresora " + buttons[index].getText() + " ha sido detenida.\n");
+                    buttons[index].setBackground(Color.RED);
                 } else {
                     impresoraHilos[index] = new Thread(impresoras[index], "Impresora " + (index + 1));
                     impresoraHilos[index].start();
                     textAreas[index].append("Impresora " + buttons[index].getText() + " ha sido iniciada.\n");
+                    buttons[index].setBackground(Color.GREEN);
                 }
             });
         }

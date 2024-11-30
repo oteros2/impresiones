@@ -67,7 +67,6 @@ public class Menu {
         for (int i = 0; i < numeroImpresoras; i++) {
             JPanel panelImpresora = new JPanel();
             panelImpresora.setLayout(new BorderLayout());
-
             textAreas[i] = new JTextArea();
             textAreas[i].setEditable(false);
             textAreas[i].setBackground(Color.LIGHT_GRAY);
@@ -80,6 +79,7 @@ public class Menu {
             buttons[i] = new JButton("Detener Impresora " + (i + 1));
             buttons[i].setPreferredSize(new Dimension(100, 50));
             buttons[i].setFont(font);
+            buttons[i].setBackground(Color.RED);
             panelImpresora.add(buttons[i], BorderLayout.SOUTH);
             panelImpresoras.add(panelImpresora);
         }
@@ -178,5 +178,6 @@ public class Menu {
                 }
             });
         }
+
     }
 }

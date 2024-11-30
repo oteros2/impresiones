@@ -1,5 +1,8 @@
 import java.io.File;
 
+/**
+ * En la clase de trabajo de impresion
+ */
 public class TrabajoImpresion {
     private final String nombreArchivo;
     private final File archivo;

@@ -14,15 +14,19 @@ class Impresoras implements Runnable {
     private int contadorImpresiones;   // Contador actual de impresiones
     private BufferedWriter bw;
     private int precio;
+    private JButton[] botones;
     JTextArea textArea;
+    int numeroImpresoras;
 
-    public Impresoras(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion, int limiteImpresiones, BufferedWriter bw, int precio, JTextArea textArea) {
+    public Impresoras(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion, int limiteImpresiones, BufferedWriter bw, int precio, JTextArea textArea, JButton[] buttons, int numeroImpresoras) {
         this.colaDeImpresion = colaDeImpresion;
         this.limiteImpresiones = limiteImpresiones;
         this.contadorImpresiones = 0;
         this.bw = bw;
         this.precio = precio;
         this.textArea = textArea;
+        this.botones = buttons;
+        this.numeroImpresoras = numeroImpresoras;
     }
 
     public int getPrecio() {
@@ -89,6 +93,11 @@ class Impresoras implements Runnable {
             }
             if (colaDeImpresion.isEmpty()) {
                 textArea.append("Impresiones terminadas. \n");
+                for (int i = 0; i < numeroImpresoras; i++) {
+                    botones[i].setText("Detener Impresora " + (i + 1));
+                    botones[i].setBackground(Color.GRAY);
+                    botones[i].setEnabled(false);
+                }
             }
         }
     }

@@ -79,7 +79,8 @@ public class Menu {
             buttons[i] = new JButton("Detener Impresora " + (i + 1));
             buttons[i].setPreferredSize(new Dimension(100, 50));
             buttons[i].setFont(font);
-            buttons[i].setBackground(Color.RED);
+            buttons[i].setBackground(Color.gray);
+            buttons[i].setEnabled(false);
             panelImpresora.add(buttons[i], BorderLayout.SOUTH);
             panelImpresoras.add(panelImpresora);
         }
@@ -141,10 +142,9 @@ public class Menu {
                 for (int i = 0; i < precios.length; i++) {
                     precios[i] = (int) Math.floor(Math.random() * 451 + 50);
                 }
-
                 //Crea las impresoras
                 for (int i = 0; i < numeroImpresoras; i++) {
-                    impresoras[i] = new Impresoras(colaDeImpresion, (int) Math.floor(Math.random() * (6 - 2) + 1), bw, precios[i], textAreas[i]);
+                    impresoras[i] = new Impresoras(colaDeImpresion, (int) Math.floor(Math.random() * (6 - 2) + 1), bw, precios[i], textAreas[i], buttons, numeroImpresoras);
                 }
 
                 //Crea los hilos y los ejecuta
@@ -157,6 +157,7 @@ public class Menu {
                         impresoraHilos[i].setPriority(Thread.MIN_PRIORITY);
                     }
                     impresoraHilos[i].start();
+                    buttons[i].setEnabled(true);
                     buttons[i].setBackground(Color.GREEN);
                 }
             } else {
@@ -170,11 +171,13 @@ public class Menu {
                     impresoraHilos[index].interrupt();
                     textAreas[index].append("Impresora " + buttons[index].getText() + " ha sido detenida.\n");
                     buttons[index].setBackground(Color.RED);
+                    buttons[index].setText("Iniciar impresora " + (index + 1));
                 } else {
                     impresoraHilos[index] = new Thread(impresoras[index], "Impresora " + (index + 1));
                     impresoraHilos[index].start();
                     textAreas[index].append("Impresora " + buttons[index].getText() + " ha sido iniciada.\n");
                     buttons[index].setBackground(Color.GREEN);
+                    buttons[index].setText("Detener impresora " + (index + 1));
                 }
             });
         }

@@ -8,16 +8,31 @@ import java.util.Date;
 import java.util.Random;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
+/**
+ * Clase que simula el comportamiento de una impresora.
+ * Implementa Runnable.
+ */
 class Impresoras implements Runnable {
-    private ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion;
+    private ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion; //Cola compartida de trabajos a imprimir
     private int limiteImpresiones;    // Límite de impresiones antes de reiniciar
     private int contadorImpresiones;   // Contador actual de impresiones
-    private BufferedWriter bw;
-    private int precio;
-    private JButton[] botones;
-    JTextArea textArea;
-    int numeroImpresoras;
+    private BufferedWriter bw; // Buffer para registrar eventos en el archivo de log
+    private int precio; // Precio asignado a la impresora
+    private JButton[] botones; // Botones de control de las impresoras en la interfaz
+    JTextArea textArea; // Área de texto para mostrar mensajes de la impresora
+    int numeroImpresoras; // Número total de impresoras en el sistema
 
+    /**
+     * Constructor que inicializa los atributos de la impresora.
+     *
+     * @param colaDeImpresion  Cola compartida de trabajos de impresión.
+     * @param limiteImpresiones Límite de impresiones antes de reiniciar.
+     * @param bw               Buffer para el archivo de log.
+     * @param precio           Precio asociado a la impresora.
+     * @param textArea         Área de texto para mostrar información.
+     * @param buttons          Botones de control de impresoras.
+     * @param numeroImpresoras Número total de impresoras.
+     */
     public Impresoras(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion, int limiteImpresiones, BufferedWriter bw, int precio, JTextArea textArea, JButton[] buttons, int numeroImpresoras) {
         this.colaDeImpresion = colaDeImpresion;
         this.limiteImpresiones = limiteImpresiones;
@@ -29,26 +44,35 @@ class Impresoras implements Runnable {
         this.numeroImpresoras = numeroImpresoras;
     }
 
+
+    /**
+     * Devuelve el precio asociado a la impresora.
+     *
+     * @return Precio de la impresora.
+     */
     public int getPrecio() {
         return precio;
     }
 
+    /**
+     * Método principal del hilo, que procesa trabajos de impresión de la cola.
+     */
     @Override
     public void run() {
-        while (!colaDeImpresion.isEmpty()) {
+        while (!colaDeImpresion.isEmpty()) { // Ejecutar mientras haya trabajos en la cola.
             if (contadorImpresiones < limiteImpresiones) {
-                //intenta extraer un documento de la cola de impresion
+                //Intenta extraer un documento de la cola de impresion.
                 TrabajoImpresion trabajo = colaDeImpresion.poll();
-                //Comprueba que el trabajo que trae de la cola no sea nulo
-                if (trabajo != null) {
+                //Comprueba que el trabajo que trae de la cola no sea nulo.
+                if (trabajo != null) { // Si hay un trabajo válido
                     //imprime por pantalla el contenido del archivo en una ventana emergente
                     JOptionPane option = new JOptionPane("", JOptionPane.INFORMATION_MESSAGE);
                     StringBuilder impresion = new StringBuilder();
                     try (BufferedReader br = new BufferedReader(new FileReader(trabajo.getArchivo()))) {
                         textArea.append("imprimiendo " + trabajo.getNombreArchivo() + "\n");
                         bw.write(new Date() + " " + Thread.currentThread().getName() + " está imprimiendo: " + trabajo.getNombreArchivo() + "\n");
-                        bw.flush();
-                        contadorImpresiones++;
+                        bw.flush();// Asegura que los datos se escriban inmediatamente en el archivo.
+                        contadorImpresiones++;// Incrementa el contador de impresiones realizadas.
                     } catch (IOException e) {
                         throw new RuntimeException(e);
                     }
@@ -57,7 +81,7 @@ class Impresoras implements Runnable {
                     } catch (InterruptedException e) {
                         Thread.currentThread().interrupt();
                     }
-                } else {
+                } else {// Si no hay trabajos disponibles, espera brevemente antes de intentar nuevamente.
                     try {
                         Thread.sleep(100); // Espera un pequeño intervalo de tiempo si la cola está vacía
                     } catch (InterruptedException e) {
@@ -65,14 +89,15 @@ class Impresoras implements Runnable {
                     }
                 }
             } else {
-                try {
+                try {// Cuando se alcanza el límite de impresiones, la impresora debe "reiniciarse".
+                    // Muestra un mensaje en la interfaz.
                     textArea.append("Limite de " + limiteImpresiones + " impresiones alcanzado. Reiniciando..." + "\n");
                     bw.write(new Date() + " [" + Thread.currentThread().getName() + " ha alcanzado su límite de impresiones (" + limiteImpresiones + "). Esperando para reiniciar...]" + "\n");
                     bw.flush();
                 } catch (IOException e) {
                     throw new RuntimeException(e);
                 }
-                try {
+                try { // Simula un reinicio con un tiempo de espera aleatorio
                     Random random = new Random();
                     int tiempoEspera = (random.nextInt(21) * 1000) + 1;
                     textArea.append("Tiempo estimado de espera " + tiempoEspera / 1000 + " segundos" + "\n");
@@ -83,6 +108,7 @@ class Impresoras implements Runnable {
                     Thread.currentThread().interrupt();
                 }
                 contadorImpresiones = 0; // Reinicia el contador de impresiones
+                // Notificar que la impresora está lista nuevamente.
                 try {
                     textArea.append("Imprimiendo de nuevo..." + "\n");
                     bw.write(new Date() + " " + Thread.currentThread().getName() + " está lista para imprimir nuevamente." + "\n");
@@ -91,12 +117,14 @@ class Impresoras implements Runnable {
                     throw new RuntimeException(e);
                 }
             }
+            // Si la cola está vacía, notificar que se han terminado los trabajos.
             if (colaDeImpresion.isEmpty()) {
                 textArea.append("Impresiones terminadas. \n");
+                // Actualizar los botones de control para mostrar que las impresoras están detenidas.
                 for (int i = 0; i < numeroImpresoras; i++) {
-                    botones[i].setText("Detener Impresora " + (i + 1));
-                    botones[i].setBackground(Color.GRAY);
-                    botones[i].setEnabled(false);
+                    botones[i].setText("Detener Impresora " + (i + 1)); // Actualiza el texto de los botones.
+                    botones[i].setBackground(Color.GRAY); // Cambia el color de los botones a gris.
+                    botones[i].setEnabled(false); // Desactiva los botones.
                 }
             }
         }

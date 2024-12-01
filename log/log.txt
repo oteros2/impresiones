@@ -3559,3 +3559,70 @@ Sat Nov 30 22:26:00 CET 2024 Impresora 2 está lista para imprimir nuevamente.
 Sat Nov 30 22:26:00 CET 2024 Impresora 2 está imprimiendo: archivo_9.txt
 Sat Nov 30 22:26:03 CET 2024 Impresora 3 está lista para imprimir nuevamente.
 Sat Nov 30 22:26:08 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_1.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_10.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_11.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_12.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_13.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_14.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_15.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_16.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_17.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_18.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_19.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_2.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_20.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_3.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_4.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_5.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_6.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_7.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_8.txt
+Sun Dec 01 11:59:22 CET 2024 Enviado a impresión: C:\Users\jesus\impresiones\files\archivo_9.txt
+Sun Dec 01 11:59:22 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Sun Dec 01 11:59:22 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Sun Dec 01 11:59:22 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Sun Dec 01 11:59:23 CET 2024 Impresora 3 está imprimiendo: archivo_13.txt
+Sun Dec 01 11:59:23 CET 2024 Impresora 2 está imprimiendo: archivo_14.txt
+Sun Dec 01 11:59:23 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Sun Dec 01 11:59:24 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sun Dec 01 11:59:24 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sun Dec 01 11:59:24 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sun Dec 01 11:59:24 CET 2024 Tiempo estimado de espera para  Impresora 1 17 segundos
+Sun Dec 01 11:59:24 CET 2024 Tiempo estimado de espera para  Impresora 3 18 segundos
+Sun Dec 01 11:59:24 CET 2024 Tiempo estimado de espera para  Impresora 2 1 segundos
+Sun Dec 01 11:59:25 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sun Dec 01 11:59:25 CET 2024 Impresora 2 está imprimiendo: archivo_15.txt
+Sun Dec 01 11:59:26 CET 2024 Impresora 2 está imprimiendo: archivo_16.txt
+Sun Dec 01 11:59:27 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sun Dec 01 11:59:27 CET 2024 Tiempo estimado de espera para  Impresora 2 18 segundos
+Sun Dec 01 11:59:41 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sun Dec 01 11:59:41 CET 2024 Impresora 1 está imprimiendo: archivo_17.txt
+Sun Dec 01 11:59:42 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sun Dec 01 11:59:42 CET 2024 Impresora 3 está imprimiendo: archivo_18.txt
+Sun Dec 01 11:59:42 CET 2024 Impresora 1 está imprimiendo: archivo_19.txt
+Sun Dec 01 11:59:43 CET 2024 Impresora 3 está imprimiendo: archivo_2.txt
+Sun Dec 01 11:59:43 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sun Dec 01 11:59:43 CET 2024 Tiempo estimado de espera para  Impresora 1 8 segundos
+Sun Dec 01 11:59:44 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sun Dec 01 11:59:44 CET 2024 Tiempo estimado de espera para  Impresora 3 13 segundos
+Sun Dec 01 11:59:45 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sun Dec 01 11:59:45 CET 2024 Impresora 2 está imprimiendo: archivo_20.txt
+Sun Dec 01 11:59:46 CET 2024 Impresora 2 está imprimiendo: archivo_3.txt
+Sun Dec 01 11:59:47 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sun Dec 01 11:59:47 CET 2024 Tiempo estimado de espera para  Impresora 2 4 segundos
+Sun Dec 01 11:59:51 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sun Dec 01 11:59:51 CET 2024 Impresora 1 está imprimiendo: archivo_4.txt
+Sun Dec 01 11:59:51 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Sun Dec 01 11:59:51 CET 2024 Impresora 2 está imprimiendo: archivo_5.txt
+Sun Dec 01 11:59:52 CET 2024 Impresora 1 está imprimiendo: archivo_6.txt
+Sun Dec 01 11:59:52 CET 2024 Impresora 2 está imprimiendo: archivo_7.txt
+Sun Dec 01 11:59:53 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sun Dec 01 11:59:53 CET 2024 Tiempo estimado de espera para  Impresora 1 11 segundos
+Sun Dec 01 11:59:53 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Sun Dec 01 11:59:53 CET 2024 Tiempo estimado de espera para  Impresora 2 16 segundos
+Sun Dec 01 11:59:57 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Sun Dec 01 11:59:57 CET 2024 Impresora 3 está imprimiendo: archivo_8.txt
+Sun Dec 01 11:59:58 CET 2024 Impresora 3 está imprimiendo: archivo_9.txt
+Sun Dec 01 12:00:04 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Sun Dec 01 12:00:09 CET 2024 Impresora 2 está lista para imprimir nuevamente.

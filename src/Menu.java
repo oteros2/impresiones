@@ -9,8 +9,13 @@ import java.util.List;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 public class Menu {
-
+    static final int MAX_IMPR = 10;
     static void createMenu(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion, BufferedWriter bw, int numeroImpresoras) {
+        if(numeroImpresoras < 1){
+            numeroImpresoras = 1;
+        } else if (numeroImpresoras > MAX_IMPR) {
+            numeroImpresoras = MAX_IMPR;
+        }
         //definir la cantidad de hilos que vamos a usar
         Thread[] impresoraHilos = new Thread[numeroImpresoras];
         //definir la cantidad de impresoras que vamos a usar
@@ -122,6 +127,7 @@ public class Menu {
         });
 
         // Acción del botón "Imprimir"
+        int finalNumeroImpresoras = numeroImpresoras;
         btnImprimir.addActionListener(e -> {
             if (!archivosSeleccionados.isEmpty()) {
                 for (File archivo : archivosSeleccionados) {
@@ -136,15 +142,15 @@ public class Menu {
                     }
                 }
                 archivosSeleccionados.clear(); // Limpiar la lista temporal tras enviar los archivos a la cola
-                int[] precios = new int[numeroImpresoras];
+                int[] precios = new int[finalNumeroImpresoras];
 
                 //Genera los precios aleatorios
                 for (int i = 0; i < precios.length; i++) {
                     precios[i] = (int) Math.floor(Math.random() * 451 + 50);
                 }
                 //Crea las impresoras
-                for (int i = 0; i < numeroImpresoras; i++) {
-                    impresoras[i] = new Impresoras(colaDeImpresion, (int) Math.floor(Math.random() * (6 - 2) + 1), bw, precios[i], textAreas[i], buttons, numeroImpresoras);
+                for (int i = 0; i < finalNumeroImpresoras; i++) {
+                    impresoras[i] = new Impresoras(colaDeImpresion, (int) Math.floor(Math.random() * (6 - 2) + 1), bw, precios[i], textAreas[i], buttons, finalNumeroImpresoras);
                 }
 
                 //Crea los hilos y los ejecuta

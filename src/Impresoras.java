@@ -14,13 +14,15 @@ import java.util.concurrent.ConcurrentLinkedQueue;
  */
 class Impresoras implements Runnable {
     private ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion; //Cola compartida de trabajos a imprimir
+    int numeroImpresoras; // Número total de impresoras en el sistema
     private int limiteImpresiones;    // Límite de impresiones antes de reiniciar
+    private int totalImpresiones = 0;// Contador de impresiones individuales
     private int contadorImpresiones;   // Contador actual de impresiones
     private BufferedWriter bw; // Buffer para registrar eventos en el archivo de log
     private int precio; // Precio asignado a la impresora
     private JButton[] botones; // Botones de control de las impresoras en la interfaz
     JTextArea textArea; // Área de texto para mostrar mensajes de la impresora
-    int numeroImpresoras; // Número total de impresoras en el sistema
+
 
     /**
      * Constructor que inicializa los atributos de la impresora.
@@ -33,7 +35,7 @@ class Impresoras implements Runnable {
      * @param buttons          Botones de control de impresoras.
      * @param numeroImpresoras Número total de impresoras.
      */
-    public Impresoras(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion, int limiteImpresiones, BufferedWriter bw, int precio, JTextArea textArea, JButton[] buttons, int numeroImpresoras) {
+    public Impresoras(ConcurrentLinkedQueue<TrabajoImpresion> colaDeImpresion, int limiteImpresiones, BufferedWriter bw, int precio, JTextArea textArea, JButton[] buttons, int numeroImpresoras, int totalImpresiones) {
         this.colaDeImpresion = colaDeImpresion;
         this.limiteImpresiones = limiteImpresiones;
         this.contadorImpresiones = 0;
@@ -42,8 +44,8 @@ class Impresoras implements Runnable {
         this.textArea = textArea;
         this.botones = buttons;
         this.numeroImpresoras = numeroImpresoras;
+        this.totalImpresiones = totalImpresiones;
     }
-
 
     /**
      * Devuelve el precio asociado a la impresora.
@@ -52,6 +54,15 @@ class Impresoras implements Runnable {
      */
     public int getPrecio() {
         return precio;
+    }
+
+    /**
+     * Devuelve el límite de impresiones antes de reiniciar.
+     *
+     * @return Límite de impresiones.
+     */
+    public int getLimiteImpresiones() {
+        return limiteImpresiones;
     }
 
     /**
@@ -65,14 +76,12 @@ class Impresoras implements Runnable {
                 TrabajoImpresion trabajo = colaDeImpresion.poll();
                 //Comprueba que el trabajo que trae de la cola no sea nulo.
                 if (trabajo != null) { // Si hay un trabajo válido
-                    //imprime por pantalla el contenido del archivo en una ventana emergente
-                    JOptionPane option = new JOptionPane("", JOptionPane.INFORMATION_MESSAGE);
-                    StringBuilder impresion = new StringBuilder();
-                    try (BufferedReader br = new BufferedReader(new FileReader(trabajo.getArchivo()))) {
+                    try {
                         textArea.append("imprimiendo " + trabajo.getNombreArchivo() + "\n");
                         bw.write(new Date() + " " + Thread.currentThread().getName() + " está imprimiendo: " + trabajo.getNombreArchivo() + "\n");
                         bw.flush();// Asegura que los datos se escriban inmediatamente en el archivo.
                         contadorImpresiones++;// Incrementa el contador de impresiones realizadas.
+                        totalImpresiones++;// Incrementa el contador de impresiones totales.
                     } catch (IOException e) {
                         throw new RuntimeException(e);
                     }
@@ -120,6 +129,8 @@ class Impresoras implements Runnable {
             // Si la cola está vacía, notificar que se han terminado los trabajos.
             if (colaDeImpresion.isEmpty()) {
                 textArea.append("Impresiones terminadas. \n");
+                // Mostrar el numero de impresiones realizadas por la impresora.
+                textArea.append("Total de impresiones realizadas: " + totalImpresiones + "\n");
                 // Actualizar los botones de control para mostrar que las impresoras están detenidas.
                 for (int i = 0; i < numeroImpresoras; i++) {
                     botones[i].setText("Detener Impresora " + (i + 1)); // Actualiza el texto de los botones.

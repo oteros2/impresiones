@@ -126,8 +126,21 @@ public class Menu {
             }
         });
 
-        // Acción del botón "Imprimir"
         int finalNumeroImpresoras = numeroImpresoras;
+        int[] precios = new int[finalNumeroImpresoras];
+
+        //Genera los precios aleatorios
+        for (int i = 0; i < precios.length; i++) {
+            precios[i] = (int) Math.floor(Math.random() * 501);
+        }
+        //Crea las impresoras
+        for (int i = 0; i < finalNumeroImpresoras; i++) {
+            impresoras[i] = new Impresoras(colaDeImpresion, (int) Math.floor(Math.random() * (20 - 6) + 1), bw, precios[i],
+                    textAreas[i], buttons, finalNumeroImpresoras, 0);
+            textAreas[i].append("Precio de impresora: " + precios[i] + "\n" + "Limite de impresiones: " + impresoras[i].getLimiteImpresiones() + "\n");
+        }
+
+        // Acción del botón "Imprimir"
         btnImprimir.addActionListener(e -> {
             if (!archivosSeleccionados.isEmpty()) {
                 for (File archivo : archivosSeleccionados) {
@@ -142,16 +155,6 @@ public class Menu {
                     }
                 }
                 archivosSeleccionados.clear(); // Limpiar la lista temporal tras enviar los archivos a la cola
-                int[] precios = new int[finalNumeroImpresoras];
-
-                //Genera los precios aleatorios
-                for (int i = 0; i < precios.length; i++) {
-                    precios[i] = (int) Math.floor(Math.random() * 451 + 50);
-                }
-                //Crea las impresoras
-                for (int i = 0; i < finalNumeroImpresoras; i++) {
-                    impresoras[i] = new Impresoras(colaDeImpresion, (int) Math.floor(Math.random() * (6 - 2) + 1), bw, precios[i], textAreas[i], buttons, finalNumeroImpresoras);
-                }
 
                 //Crea los hilos y los ejecuta
                 for (int i = 0; i < impresoraHilos.length; i++) {
@@ -162,6 +165,7 @@ public class Menu {
                     } else {
                         impresoraHilos[i].setPriority(Thread.MIN_PRIORITY);
                     }
+                    textAreas[i].append("Prioridad de impresora: " + impresoraHilos[i].getPriority() + "\n");
                     impresoraHilos[i].start();
                     buttons[i].setEnabled(true);
                     buttons[i].setBackground(Color.GREEN);
@@ -175,13 +179,13 @@ public class Menu {
             buttons[i].addActionListener(e -> {
                 if (impresoraHilos[index].isAlive()) {
                     impresoraHilos[index].interrupt();
-                    textAreas[index].append("Impresora " + buttons[index].getText() + " ha sido detenida.\n");
+                    textAreas[index].append("Impresora " + (index + 1) + " ha sido detenida.\n");
                     buttons[index].setBackground(Color.RED);
                     buttons[index].setText("Iniciar impresora " + (index + 1));
                 } else {
                     impresoraHilos[index] = new Thread(impresoras[index], "Impresora " + (index + 1));
                     impresoraHilos[index].start();
-                    textAreas[index].append("Impresora " + buttons[index].getText() + " ha sido iniciada.\n");
+                    textAreas[index].append("Impresora " + (index + 1) + " ha sido iniciada.\n");
                     buttons[index].setBackground(Color.GREEN);
                     buttons[index].setText("Detener impresora " + (index + 1));
                 }

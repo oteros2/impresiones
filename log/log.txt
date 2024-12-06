@@ -3626,3 +3626,1240 @@ Sun Dec 01 11:59:57 CET 2024 Impresora 3 está imprimiendo: archivo_8.txt
 Sun Dec 01 11:59:58 CET 2024 Impresora 3 está imprimiendo: archivo_9.txt
 Sun Dec 01 12:00:04 CET 2024 Impresora 1 está lista para imprimir nuevamente.
 Sun Dec 01 12:00:09 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Thu Dec 05 14:20:25 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Thu Dec 05 14:20:25 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Thu Dec 05 14:20:25 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Thu Dec 05 14:20:25 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Thu Dec 05 14:20:26 CET 2024 Impresora 2 está imprimiendo: archivo_14.txt
+Thu Dec 05 14:20:26 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Thu Dec 05 14:20:26 CET 2024 Impresora 3 está imprimiendo: archivo_13.txt
+Thu Dec 05 14:20:27 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Thu Dec 05 14:20:27 CET 2024 Impresora 3 está imprimiendo: archivo_16.txt
+Thu Dec 05 14:20:27 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Thu Dec 05 14:20:27 CET 2024 Tiempo estimado de espera para  Impresora 2 1 segundos
+Thu Dec 05 14:20:28 CET 2024 Impresora 1 está imprimiendo: archivo_17.txt
+Thu Dec 05 14:20:28 CET 2024 Impresora 3 está imprimiendo: archivo_18.txt
+Thu Dec 05 14:20:28 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Thu Dec 05 14:20:28 CET 2024 Impresora 2 está imprimiendo: archivo_19.txt
+Thu Dec 05 14:20:29 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Thu Dec 05 14:20:29 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Thu Dec 05 14:20:29 CET 2024 Tiempo estimado de espera para  Impresora 3 6 segundos
+Thu Dec 05 14:20:29 CET 2024 Tiempo estimado de espera para  Impresora 1 15 segundos
+Thu Dec 05 14:20:29 CET 2024 Impresora 2 está imprimiendo: archivo_2.txt
+Thu Dec 05 14:20:30 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Thu Dec 05 14:20:30 CET 2024 Tiempo estimado de espera para  Impresora 2 20 segundos
+Thu Dec 05 14:20:34 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Thu Dec 05 14:20:35 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Thu Dec 05 14:20:35 CET 2024 Impresora 3 está imprimiendo: archivo_3.txt
+Thu Dec 05 14:20:36 CET 2024 Impresora 3 está imprimiendo: archivo_4.txt
+Thu Dec 05 14:20:46 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Thu Dec 05 14:20:47 CET 2024 Impresora 2 está imprimiendo: archivo_7.txt
+Thu Dec 05 14:20:48 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Thu Dec 05 14:20:48 CET 2024 Tiempo estimado de espera para  Impresora 2 11 segundos
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Thu Dec 05 14:37:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Thu Dec 05 14:37:45 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Thu Dec 05 14:37:45 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Thu Dec 05 14:37:45 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Thu Dec 05 14:37:46 CET 2024 Impresora 3 está imprimiendo: archivo_12.txt
+Thu Dec 05 14:37:46 CET 2024 Impresora 1 está imprimiendo: archivo_13.txt
+Thu Dec 05 14:37:46 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Thu Dec 05 14:37:46 CET 2024 Tiempo estimado de espera para  Impresora 2 14 segundos
+Thu Dec 05 14:37:47 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Thu Dec 05 14:37:47 CET 2024 Impresora 3 está imprimiendo: archivo_14.txt
+Thu Dec 05 14:37:48 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Thu Dec 05 14:37:48 CET 2024 Tiempo estimado de espera para  Impresora 1 16 segundos
+Thu Dec 05 14:37:48 CET 2024 Impresora 3 está imprimiendo: archivo_16.txt
+Thu Dec 05 14:37:49 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Thu Dec 05 14:37:49 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Thu Dec 05 14:37:49 CET 2024 Tiempo estimado de espera para  Impresora 3 3 segundos
+Thu Dec 05 14:37:52 CET 2024 Impresora 1 está imprimiendo: archivo_18.txt
+Thu Dec 05 14:37:53 CET 2024 Impresora 1 está imprimiendo: archivo_19.txt
+Thu Dec 05 14:37:54 CET 2024 Impresora 1 está imprimiendo: archivo_2.txt
+Thu Dec 05 14:37:55 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Thu Dec 05 14:37:55 CET 2024 Tiempo estimado de espera para  Impresora 1 12 segundos
+Thu Dec 05 14:37:59 CET 2024 Impresora 3 está imprimiendo: archivo_20.txt
+Thu Dec 05 14:38:00 CET 2024 Impresora 3 está imprimiendo: archivo_3.txt
+Thu Dec 05 14:38:00 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Thu Dec 05 14:38:00 CET 2024 Impresora 2 está imprimiendo: archivo_4.txt
+Thu Dec 05 14:38:01 CET 2024 Impresora 3 está imprimiendo: archivo_5.txt
+Thu Dec 05 14:38:01 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Thu Dec 05 14:38:01 CET 2024 Tiempo estimado de espera para  Impresora 2 11 segundos
+Thu Dec 05 14:38:02 CET 2024 Impresora 3 está imprimiendo: archivo_6.txt
+Thu Dec 05 14:38:03 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Thu Dec 05 14:38:03 CET 2024 Tiempo estimado de espera para  Impresora 3 16 segundos
+Thu Dec 05 14:38:07 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Thu Dec 05 14:38:07 CET 2024 Impresora 1 está imprimiendo: archivo_7.txt
+Thu Dec 05 14:38:08 CET 2024 Impresora 1 está imprimiendo: archivo_8.txt
+Thu Dec 05 14:38:09 CET 2024 Impresora 1 está imprimiendo: archivo_9.txt
+Thu Dec 05 14:38:12 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Thu Dec 05 14:38:19 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:11:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:11:44 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:11:44 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 09:11:44 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 09:11:45 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 09:11:45 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 09:11:45 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:11:45 CET 2024 Tiempo estimado de espera para  Impresora 3 10 segundos
+Fri Dec 06 09:11:46 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:11:46 CET 2024 Impresora 1 está imprimiendo: archivo_14.txt
+Fri Dec 06 09:11:46 CET 2024 Tiempo estimado de espera para  Impresora 2 14 segundos
+Fri Dec 06 09:11:47 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Fri Dec 06 09:11:47 CET 2024 Tiempo estimado de espera para  Impresora 1 0 segundos
+Fri Dec 06 09:11:47 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:11:47 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Fri Dec 06 09:11:48 CET 2024 Impresora 1 está imprimiendo: archivo_16.txt
+Fri Dec 06 09:11:49 CET 2024 Impresora 1 está imprimiendo: archivo_17.txt
+Fri Dec 06 09:11:50 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Fri Dec 06 09:11:50 CET 2024 Tiempo estimado de espera para  Impresora 1 19 segundos
+Fri Dec 06 09:11:55 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:11:55 CET 2024 Impresora 3 está imprimiendo: archivo_18.txt
+Fri Dec 06 09:11:56 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:11:56 CET 2024 Tiempo estimado de espera para  Impresora 3 13 segundos
+Fri Dec 06 09:12:00 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 09:12:00 CET 2024 Impresora 2 está imprimiendo: archivo_19.txt
+Fri Dec 06 09:12:01 CET 2024 Impresora 2 está imprimiendo: archivo_2.txt
+Fri Dec 06 09:12:02 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:12:02 CET 2024 Tiempo estimado de espera para  Impresora 2 9 segundos
+Fri Dec 06 09:12:09 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:12:09 CET 2024 Impresora 1 está imprimiendo: archivo_20.txt
+Fri Dec 06 09:12:09 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:12:09 CET 2024 Impresora 3 está imprimiendo: archivo_3.txt
+Fri Dec 06 09:12:10 CET 2024 Impresora 1 está imprimiendo: archivo_4.txt
+Fri Dec 06 09:12:10 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:12:10 CET 2024 Tiempo estimado de espera para  Impresora 3 11 segundos
+Fri Dec 06 09:12:11 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 09:12:11 CET 2024 Impresora 2 está imprimiendo: archivo_5.txt
+Fri Dec 06 09:12:11 CET 2024 Impresora 1 está imprimiendo: archivo_6.txt
+Fri Dec 06 09:12:12 CET 2024 Impresora 2 está imprimiendo: archivo_7.txt
+Fri Dec 06 09:12:12 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Fri Dec 06 09:12:12 CET 2024 Tiempo estimado de espera para  Impresora 1 13 segundos
+Fri Dec 06 09:12:13 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:12:13 CET 2024 Tiempo estimado de espera para  Impresora 2 10 segundos
+Fri Dec 06 09:12:21 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:12:21 CET 2024 Impresora 3 está imprimiendo: archivo_8.txt
+Fri Dec 06 09:12:22 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:12:22 CET 2024 Tiempo estimado de espera para  Impresora 3 5 segundos
+Fri Dec 06 09:12:23 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 09:12:23 CET 2024 Impresora 2 está imprimiendo: archivo_9.txt
+Fri Dec 06 09:12:25 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:12:27 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:21:21 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:21:21 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:21:21 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 09:21:21 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 09:21:22 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 09:21:22 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 09:21:22 CET 2024 Impresora 3 está imprimiendo: archivo_14.txt
+Fri Dec 06 09:21:23 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Fri Dec 06 09:21:23 CET 2024 Impresora 3 está imprimiendo: archivo_16.txt
+Fri Dec 06 09:21:23 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:21:23 CET 2024 Tiempo estimado de espera para  Impresora 2 19 segundos
+Fri Dec 06 09:21:24 CET 2024 Impresora 1 está imprimiendo: archivo_17.txt
+Fri Dec 06 09:21:24 CET 2024 Impresora 3 está imprimiendo: archivo_18.txt
+Fri Dec 06 09:21:25 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Fri Dec 06 09:21:25 CET 2024 Tiempo estimado de espera para  Impresora 1 10 segundos
+Fri Dec 06 09:21:25 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Fri Dec 06 09:21:25 CET 2024 Tiempo estimado de espera para  Impresora 3 11 segundos
+Fri Dec 06 09:21:35 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:21:35 CET 2024 Impresora 1 está imprimiendo: archivo_19.txt
+Fri Dec 06 09:21:36 CET 2024 Impresora 1 está imprimiendo: archivo_2.txt
+Fri Dec 06 09:21:36 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:21:36 CET 2024 Impresora 3 está imprimiendo: archivo_20.txt
+Fri Dec 06 09:21:37 CET 2024 Impresora 1 está imprimiendo: archivo_3.txt
+Fri Dec 06 09:21:37 CET 2024 Impresora 3 está imprimiendo: archivo_4.txt
+Fri Dec 06 09:21:38 CET 2024 Impresora 1 está imprimiendo: archivo_5.txt
+Fri Dec 06 09:21:38 CET 2024 Impresora 3 está imprimiendo: archivo_6.txt
+Fri Dec 06 09:21:39 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Fri Dec 06 09:21:39 CET 2024 Tiempo estimado de espera para  Impresora 1 8 segundos
+Fri Dec 06 09:21:39 CET 2024 Impresora 3 está imprimiendo: archivo_7.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:22:27 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:22:27 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:22:27 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 09:22:27 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 09:22:28 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 09:22:28 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 09:22:28 CET 2024 Impresora 3 está imprimiendo: archivo_14.txt
+Fri Dec 06 09:22:29 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:22:29 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:22:29 CET 2024 Impresora 3 está imprimiendo: archivo_15.txt
+Fri Dec 06 09:22:29 CET 2024 Tiempo estimado de espera para  Impresora 2 10 segundos
+Fri Dec 06 09:22:29 CET 2024 Tiempo estimado de espera para  Impresora 1 11 segundos
+Fri Dec 06 09:22:30 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Fri Dec 06 09:22:30 CET 2024 Tiempo estimado de espera para  Impresora 3 14 segundos
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:23:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:23:43 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:23:43 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 09:23:43 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 09:23:44 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 09:23:44 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 09:23:44 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:23:44 CET 2024 Tiempo estimado de espera para  Impresora 3 17 segundos
+Fri Dec 06 09:23:45 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:23:45 CET 2024 Tiempo estimado de espera para  Impresora 1 6 segundos
+Fri Dec 06 09:23:45 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:23:45 CET 2024 Tiempo estimado de espera para  Impresora 2 12 segundos
+Fri Dec 06 09:23:51 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:23:51 CET 2024 Impresora 1 está imprimiendo: archivo_14.txt
+Fri Dec 06 09:23:52 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Fri Dec 06 09:23:53 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:23:53 CET 2024 Tiempo estimado de espera para  Impresora 1 11 segundos
+Fri Dec 06 09:25:03 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:25:03 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:26:14 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:26:14 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:27:07 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:27:07 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:27:24 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:27:24 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:27:24 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:27:24 CET 2024 Impresora 1 está imprimiendo: archivo_2.txt
+Fri Dec 06 09:27:24 CET 2024 Impresora 2 está imprimiendo: archivo_7.txt
+Fri Dec 06 09:27:24 CET 2024 Impresora 3 está imprimiendo: archivo_8.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:29:59 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:29:59 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:29:59 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 09:29:59 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 09:30:00 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 09:30:00 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:30:00 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:30:00 CET 2024 Tiempo estimado de espera para  Impresora 2 9 segundos
+Fri Dec 06 09:30:00 CET 2024 Tiempo estimado de espera para  Impresora 3 17 segundos
+Fri Dec 06 09:30:01 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:30:01 CET 2024 Tiempo estimado de espera para  Impresora 1 1 segundos
+Fri Dec 06 09:30:02 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:30:02 CET 2024 Impresora 1 está imprimiendo: archivo_13.txt
+Fri Dec 06 09:30:03 CET 2024 Impresora 1 está imprimiendo: archivo_14.txt
+Fri Dec 06 09:30:04 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:30:04 CET 2024 Tiempo estimado de espera para  Impresora 1 7 segundos
+Fri Dec 06 09:30:09 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 09:30:09 CET 2024 Impresora 2 está imprimiendo: archivo_15.txt
+Fri Dec 06 09:30:10 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:30:10 CET 2024 Tiempo estimado de espera para  Impresora 2 7 segundos
+Fri Dec 06 09:30:11 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:30:11 CET 2024 Impresora 1 está imprimiendo: archivo_16.txt
+Fri Dec 06 09:30:12 CET 2024 Impresora 1 está imprimiendo: archivo_17.txt
+Fri Dec 06 09:30:13 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:30:13 CET 2024 Tiempo estimado de espera para  Impresora 1 13 segundos
+Fri Dec 06 09:30:17 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:30:17 CET 2024 Impresora 3 está imprimiendo: archivo_18.txt
+Fri Dec 06 09:30:17 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 09:30:17 CET 2024 Impresora 2 está imprimiendo: archivo_19.txt
+Fri Dec 06 09:30:18 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:30:18 CET 2024 Tiempo estimado de espera para  Impresora 3 6 segundos
+Fri Dec 06 09:30:18 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:30:18 CET 2024 Tiempo estimado de espera para  Impresora 2 5 segundos
+Fri Dec 06 09:30:23 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 09:30:23 CET 2024 Impresora 2 está imprimiendo: archivo_2.txt
+Fri Dec 06 09:30:24 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:30:24 CET 2024 Impresora 3 está imprimiendo: archivo_20.txt
+Fri Dec 06 09:30:24 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:30:24 CET 2024 Tiempo estimado de espera para  Impresora 2 0 segundos
+Fri Dec 06 09:30:24 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 09:30:24 CET 2024 Impresora 2 está imprimiendo: archivo_3.txt
+Fri Dec 06 09:30:25 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:30:25 CET 2024 Tiempo estimado de espera para  Impresora 3 7 segundos
+Fri Dec 06 09:30:25 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:30:25 CET 2024 Tiempo estimado de espera para  Impresora 2 15 segundos
+Fri Dec 06 09:30:26 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:30:26 CET 2024 Impresora 1 está imprimiendo: archivo_4.txt
+Fri Dec 06 09:30:27 CET 2024 Impresora 1 está imprimiendo: archivo_5.txt
+Fri Dec 06 09:30:28 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:30:28 CET 2024 Tiempo estimado de espera para  Impresora 1 2 segundos
+Fri Dec 06 09:30:30 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:30:30 CET 2024 Impresora 1 está imprimiendo: archivo_6.txt
+Fri Dec 06 09:30:31 CET 2024 Impresora 1 está imprimiendo: archivo_7.txt
+Fri Dec 06 09:30:32 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:30:32 CET 2024 Tiempo estimado de espera para  Impresora 1 18 segundos
+Fri Dec 06 09:30:32 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:30:32 CET 2024 Impresora 3 está imprimiendo: archivo_8.txt
+Fri Dec 06 09:30:33 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:30:33 CET 2024 Tiempo estimado de espera para  Impresora 3 11 segundos
+Fri Dec 06 09:30:40 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 09:30:40 CET 2024 Impresora 2 está imprimiendo: archivo_9.txt
+Fri Dec 06 09:30:44 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:30:50 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:40:13 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:43:17 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:43:17 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:43:17 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 09:43:17 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 09:43:18 CET 2024 Impresora 2 está imprimiendo: archivo_12.txt
+Fri Dec 06 09:43:18 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:43:18 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:43:18 CET 2024 Tiempo estimado de espera para  Impresora 3 15 segundos
+Fri Dec 06 09:43:18 CET 2024 Tiempo estimado de espera para  Impresora 1 13 segundos
+Fri Dec 06 09:43:19 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 09:43:20 CET 2024 Impresora 2 está imprimiendo: archivo_14.txt
+Fri Dec 06 09:43:21 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Fri Dec 06 09:43:21 CET 2024 Tiempo estimado de espera para  Impresora 2 7 segundos
+Fri Dec 06 09:43:28 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 09:43:28 CET 2024 Impresora 2 está imprimiendo: archivo_15.txt
+Fri Dec 06 09:43:29 CET 2024 Impresora 2 está imprimiendo: archivo_16.txt
+Fri Dec 06 09:43:30 CET 2024 Impresora 2 está imprimiendo: archivo_17.txt
+Fri Dec 06 09:43:31 CET 2024 Impresora 2 está imprimiendo: archivo_18.txt
+Fri Dec 06 09:43:31 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:43:31 CET 2024 Impresora 1 está imprimiendo: archivo_19.txt
+Fri Dec 06 09:43:32 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Fri Dec 06 09:43:32 CET 2024 Tiempo estimado de espera para  Impresora 2 6 segundos
+Fri Dec 06 09:43:32 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:43:32 CET 2024 Tiempo estimado de espera para  Impresora 1 11 segundos
+Fri Dec 06 09:43:33 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:43:33 CET 2024 Impresora 3 está imprimiendo: archivo_2.txt
+Fri Dec 06 09:43:34 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (1). Esperando para reiniciar...]
+Fri Dec 06 09:43:34 CET 2024 Tiempo estimado de espera para  Impresora 3 8 segundos
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:44:34 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:44:34 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:44:34 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 09:44:34 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 09:44:35 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 09:44:35 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 09:44:35 CET 2024 Impresora 3 está imprimiendo: archivo_14.txt
+Fri Dec 06 09:44:36 CET 2024 Impresora 2 está imprimiendo: archivo_16.txt
+Fri Dec 06 09:44:36 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Fri Dec 06 09:44:36 CET 2024 Impresora 3 está imprimiendo: archivo_17.txt
+Fri Dec 06 09:44:37 CET 2024 Impresora 1 está imprimiendo: archivo_19.txt
+Fri Dec 06 09:44:37 CET 2024 Impresora 2 está imprimiendo: archivo_18.txt
+Fri Dec 06 09:44:37 CET 2024 Impresora 3 está imprimiendo: archivo_2.txt
+Fri Dec 06 09:44:38 CET 2024 Impresora 3 está imprimiendo: archivo_20.txt
+Fri Dec 06 09:44:38 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Fri Dec 06 09:44:38 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Fri Dec 06 09:44:38 CET 2024 Tiempo estimado de espera para  Impresora 1 6 segundos
+Fri Dec 06 09:44:38 CET 2024 Tiempo estimado de espera para  Impresora 2 12 segundos
+Fri Dec 06 09:44:39 CET 2024 Impresora 3 está imprimiendo: archivo_3.txt
+Fri Dec 06 09:44:40 CET 2024 Impresora 3 está imprimiendo: archivo_4.txt
+Fri Dec 06 09:44:41 CET 2024 Impresora 3 está imprimiendo: archivo_5.txt
+Fri Dec 06 09:44:42 CET 2024 Impresora 3 está imprimiendo: archivo_6.txt
+Fri Dec 06 09:44:43 CET 2024 Impresora 3 está imprimiendo: archivo_7.txt
+Fri Dec 06 09:44:44 CET 2024 Impresora 3 está imprimiendo: archivo_8.txt
+Fri Dec 06 09:44:44 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:44:44 CET 2024 Impresora 1 está imprimiendo: archivo_9.txt
+Fri Dec 06 09:44:50 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:45:02 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:45:02 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:45:02 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 09:45:02 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 09:45:03 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 09:45:03 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 09:45:03 CET 2024 Impresora 3 está imprimiendo: archivo_14.txt
+Fri Dec 06 09:45:04 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Fri Dec 06 09:45:04 CET 2024 Impresora 2 está imprimiendo: archivo_16.txt
+Fri Dec 06 09:45:04 CET 2024 Impresora 3 está imprimiendo: archivo_17.txt
+Fri Dec 06 09:45:05 CET 2024 Impresora 1 está imprimiendo: archivo_18.txt
+Fri Dec 06 09:45:05 CET 2024 Impresora 2 está imprimiendo: archivo_19.txt
+Fri Dec 06 09:45:05 CET 2024 Impresora 3 está imprimiendo: archivo_2.txt
+Fri Dec 06 09:45:06 CET 2024 Impresora 1 está imprimiendo: archivo_20.txt
+Fri Dec 06 09:45:06 CET 2024 Impresora 2 está imprimiendo: archivo_3.txt
+Fri Dec 06 09:45:06 CET 2024 Impresora 3 está imprimiendo: archivo_4.txt
+Fri Dec 06 09:45:07 CET 2024 Impresora 1 está imprimiendo: archivo_5.txt
+Fri Dec 06 09:45:07 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Fri Dec 06 09:45:07 CET 2024 Impresora 3 está imprimiendo: archivo_7.txt
+Fri Dec 06 09:45:08 CET 2024 Impresora 1 está imprimiendo: archivo_8.txt
+Fri Dec 06 09:45:08 CET 2024 Impresora 2 está imprimiendo: archivo_9.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:47:38 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:47:38 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:47:38 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 09:47:38 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 09:47:39 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 09:47:39 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 09:47:39 CET 2024 Impresora 3 está imprimiendo: archivo_14.txt
+Fri Dec 06 09:47:40 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Fri Dec 06 09:47:40 CET 2024 Impresora 2 está imprimiendo: archivo_16.txt
+Fri Dec 06 09:47:40 CET 2024 Impresora 3 está imprimiendo: archivo_17.txt
+Fri Dec 06 09:47:41 CET 2024 Impresora 1 está imprimiendo: archivo_18.txt
+Fri Dec 06 09:47:41 CET 2024 Impresora 2 está imprimiendo: archivo_19.txt
+Fri Dec 06 09:47:41 CET 2024 Impresora 3 está imprimiendo: archivo_2.txt
+Fri Dec 06 09:47:42 CET 2024 Impresora 1 está imprimiendo: archivo_20.txt
+Fri Dec 06 09:47:42 CET 2024 Impresora 2 está imprimiendo: archivo_3.txt
+Fri Dec 06 09:47:42 CET 2024 Impresora 3 está imprimiendo: archivo_4.txt
+Fri Dec 06 09:47:43 CET 2024 Impresora 1 está imprimiendo: archivo_5.txt
+Fri Dec 06 09:47:43 CET 2024 Impresora 3 está imprimiendo: archivo_7.txt
+Fri Dec 06 09:47:43 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Fri Dec 06 09:47:44 CET 2024 Impresora 1 está imprimiendo: archivo_8.txt
+Fri Dec 06 09:47:44 CET 2024 Impresora 3 está imprimiendo: archivo_9.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:48:05 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:48:05 CET 2024 Impresora 2 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:48:05 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (7). Esperando para reiniciar...]
+Fri Dec 06 09:48:05 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (7). Esperando para reiniciar...]
+Fri Dec 06 09:48:05 CET 2024 Tiempo estimado de espera para  Impresora 1 0 segundos
+Fri Dec 06 09:48:05 CET 2024 Tiempo estimado de espera para  Impresora 3 19 segundos
+Fri Dec 06 09:48:05 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:48:05 CET 2024 Impresora 1 está imprimiendo: archivo_10.txt
+Fri Dec 06 09:48:06 CET 2024 Impresora 2 está imprimiendo: archivo_11.txt
+Fri Dec 06 09:48:06 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 09:48:07 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 09:48:07 CET 2024 Impresora 1 está imprimiendo: archivo_14.txt
+Fri Dec 06 09:48:08 CET 2024 Impresora 2 está imprimiendo: archivo_15.txt
+Fri Dec 06 09:48:08 CET 2024 Impresora 1 está imprimiendo: archivo_16.txt
+Fri Dec 06 09:48:09 CET 2024 Impresora 2 está imprimiendo: archivo_17.txt
+Fri Dec 06 09:48:09 CET 2024 Impresora 1 está imprimiendo: archivo_18.txt
+Fri Dec 06 09:48:10 CET 2024 Impresora 2 está imprimiendo: archivo_19.txt
+Fri Dec 06 09:48:10 CET 2024 Impresora 1 está imprimiendo: archivo_2.txt
+Fri Dec 06 09:48:11 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (12). Esperando para reiniciar...]
+Fri Dec 06 09:48:11 CET 2024 Tiempo estimado de espera para  Impresora 2 10 segundos
+Fri Dec 06 09:48:11 CET 2024 Impresora 1 está imprimiendo: archivo_20.txt
+Fri Dec 06 09:48:12 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (7). Esperando para reiniciar...]
+Fri Dec 06 09:48:12 CET 2024 Tiempo estimado de espera para  Impresora 1 15 segundos
+Fri Dec 06 09:48:21 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 09:48:21 CET 2024 Impresora 2 está imprimiendo: archivo_3.txt
+Fri Dec 06 09:48:22 CET 2024 Impresora 2 está imprimiendo: archivo_4.txt
+Fri Dec 06 09:48:23 CET 2024 Impresora 2 está imprimiendo: archivo_5.txt
+Fri Dec 06 09:48:24 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Fri Dec 06 09:48:24 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:48:24 CET 2024 Impresora 3 está imprimiendo: archivo_7.txt
+Fri Dec 06 09:48:25 CET 2024 Impresora 2 está imprimiendo: archivo_8.txt
+Fri Dec 06 09:48:25 CET 2024 Impresora 3 está imprimiendo: archivo_9.txt
+Fri Dec 06 09:48:27 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:50:11 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:50:11 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:50:11 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 09:50:11 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 09:50:12 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 09:50:12 CET 2024 Impresora 3 está imprimiendo: archivo_13.txt
+Fri Dec 06 09:50:12 CET 2024 Impresora 2 está imprimiendo: archivo_14.txt
+Fri Dec 06 09:50:13 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Fri Dec 06 09:50:13 CET 2024 Impresora 2 está imprimiendo: archivo_16.txt
+Fri Dec 06 09:50:13 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:50:13 CET 2024 Tiempo estimado de espera para  Impresora 3 9 segundos
+Fri Dec 06 09:50:14 CET 2024 Impresora 2 está imprimiendo: archivo_18.txt
+Fri Dec 06 09:50:14 CET 2024 Impresora 1 está imprimiendo: archivo_17.txt
+Fri Dec 06 09:50:15 CET 2024 Impresora 1 está imprimiendo: archivo_2.txt
+Fri Dec 06 09:50:15 CET 2024 Impresora 2 está imprimiendo: archivo_19.txt
+Fri Dec 06 09:50:16 CET 2024 Impresora 1 está imprimiendo: archivo_20.txt
+Fri Dec 06 09:50:16 CET 2024 Impresora 2 está imprimiendo: archivo_3.txt
+Fri Dec 06 09:50:17 CET 2024 Impresora 2 está imprimiendo: archivo_5.txt
+Fri Dec 06 09:50:17 CET 2024 Impresora 1 está imprimiendo: archivo_4.txt
+Fri Dec 06 09:50:18 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Fri Dec 06 09:50:18 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (7). Esperando para reiniciar...]
+Fri Dec 06 09:50:18 CET 2024 Tiempo estimado de espera para  Impresora 1 13 segundos
+Fri Dec 06 09:50:19 CET 2024 Impresora 2 está imprimiendo: archivo_7.txt
+Fri Dec 06 09:50:20 CET 2024 Impresora 2 está imprimiendo: archivo_8.txt
+Fri Dec 06 09:50:21 CET 2024 Impresora 2 está imprimiendo: archivo_9.txt
+Fri Dec 06 09:50:22 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:50:31 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:50:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:50:45 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:50:45 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 09:50:45 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 09:50:46 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 09:50:46 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (12). Esperando para reiniciar...]
+Fri Dec 06 09:50:46 CET 2024 Impresora 3 está imprimiendo: archivo_13.txt
+Fri Dec 06 09:50:46 CET 2024 Tiempo estimado de espera para  Impresora 2 20 segundos
+Fri Dec 06 09:50:47 CET 2024 Impresora 1 está imprimiendo: archivo_14.txt
+Fri Dec 06 09:50:47 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:50:47 CET 2024 Tiempo estimado de espera para  Impresora 3 0 segundos
+Fri Dec 06 09:50:47 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:50:47 CET 2024 Impresora 3 está imprimiendo: archivo_15.txt
+Fri Dec 06 09:50:48 CET 2024 Impresora 1 está imprimiendo: archivo_16.txt
+Fri Dec 06 09:50:48 CET 2024 Impresora 3 está imprimiendo: archivo_17.txt
+Fri Dec 06 09:50:49 CET 2024 Impresora 1 está imprimiendo: archivo_18.txt
+Fri Dec 06 09:50:49 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:50:49 CET 2024 Tiempo estimado de espera para  Impresora 3 4 segundos
+Fri Dec 06 09:50:50 CET 2024 Impresora 1 está imprimiendo: archivo_19.txt
+Fri Dec 06 09:50:51 CET 2024 Impresora 1 está imprimiendo: archivo_2.txt
+Fri Dec 06 09:50:52 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (7). Esperando para reiniciar...]
+Fri Dec 06 09:50:52 CET 2024 Tiempo estimado de espera para  Impresora 1 11 segundos
+Fri Dec 06 09:50:53 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:50:53 CET 2024 Impresora 3 está imprimiendo: archivo_20.txt
+Fri Dec 06 09:50:54 CET 2024 Impresora 3 está imprimiendo: archivo_3.txt
+Fri Dec 06 09:50:55 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 09:50:55 CET 2024 Tiempo estimado de espera para  Impresora 3 7 segundos
+Fri Dec 06 09:50:57 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 09:50:57 CET 2024 Impresora 2 está imprimiendo: archivo_4.txt
+Fri Dec 06 09:50:57 CET 2024 Impresora 2 está imprimiendo: archivo_5.txt
+Fri Dec 06 09:50:57 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Fri Dec 06 09:51:01 CET 2024 Impresora 2 está imprimiendo: archivo_8.txt
+Fri Dec 06 09:51:02 CET 2024 Impresora 2 está imprimiendo: archivo_9.txt
+Fri Dec 06 09:51:02 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 09:51:03 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:56:48 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:56:48 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 09:56:48 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 09:56:48 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 09:56:49 CET 2024 Impresora 1 está imprimiendo: archivo_13.txt
+Fri Dec 06 09:56:49 CET 2024 Impresora 3 está imprimiendo: archivo_12.txt
+Fri Dec 06 09:56:49 CET 2024 Impresora 2 está imprimiendo: archivo_14.txt
+Fri Dec 06 09:56:50 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Fri Dec 06 09:56:50 CET 2024 Impresora 3 está imprimiendo: archivo_16.txt
+Fri Dec 06 09:56:50 CET 2024 Impresora 2 está imprimiendo: archivo_17.txt
+Fri Dec 06 09:56:51 CET 2024 Impresora 1 está imprimiendo: archivo_18.txt
+Fri Dec 06 09:56:51 CET 2024 Impresora 3 está imprimiendo: archivo_19.txt
+Fri Dec 06 09:56:51 CET 2024 Impresora 2 está imprimiendo: archivo_2.txt
+Fri Dec 06 09:56:52 CET 2024 Impresora 1 está imprimiendo: archivo_3.txt
+Fri Dec 06 09:56:52 CET 2024 Impresora 2 está imprimiendo: archivo_4.txt
+Fri Dec 06 09:56:52 CET 2024 Impresora 3 está imprimiendo: archivo_20.txt
+Fri Dec 06 09:56:53 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Fri Dec 06 09:56:53 CET 2024 Impresora 1 está imprimiendo: archivo_5.txt
+Fri Dec 06 09:56:53 CET 2024 Impresora 3 está imprimiendo: archivo_7.txt
+Fri Dec 06 09:56:54 CET 2024 Impresora 1 está imprimiendo: archivo_8.txt
+Fri Dec 06 09:56:54 CET 2024 Impresora 3 está imprimiendo: archivo_9.txt
+Fri Dec 06 09:56:54 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (6). Esperando para reiniciar...]
+Fri Dec 06 09:56:54 CET 2024 Tiempo estimado de espera para  Impresora 2 11 segundos
+Fri Dec 06 09:57:05 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 09:57:30 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 09:59:07 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 09:59:07 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 10:01:28 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 10:01:28 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 10:01:28 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 10:01:28 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 10:01:29 CET 2024 Impresora 1 está imprimiendo: archivo_13.txt
+Fri Dec 06 10:01:29 CET 2024 Impresora 3 está imprimiendo: archivo_14.txt
+Fri Dec 06 10:01:29 CET 2024 Impresora 2 está imprimiendo: archivo_12.txt
+Fri Dec 06 10:01:30 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Fri Dec 06 10:01:30 CET 2024 Impresora 3 está imprimiendo: archivo_16.txt
+Fri Dec 06 10:01:30 CET 2024 Impresora 2 está imprimiendo: archivo_17.txt
+Fri Dec 06 10:01:31 CET 2024 Impresora 1 está imprimiendo: archivo_18.txt
+Fri Dec 06 10:01:31 CET 2024 Impresora 2 está imprimiendo: archivo_2.txt
+Fri Dec 06 10:01:31 CET 2024 Impresora 3 está imprimiendo: archivo_19.txt
+Fri Dec 06 10:01:32 CET 2024 Impresora 1 está imprimiendo: archivo_20.txt
+Fri Dec 06 10:01:32 CET 2024 Impresora 2 está imprimiendo: archivo_3.txt
+Fri Dec 06 10:01:32 CET 2024 Impresora 3 está imprimiendo: archivo_4.txt
+Fri Dec 06 10:01:33 CET 2024 Impresora 1 está imprimiendo: archivo_5.txt
+Fri Dec 06 10:01:33 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Fri Dec 06 10:01:33 CET 2024 Impresora 3 está imprimiendo: archivo_7.txt
+Fri Dec 06 10:01:34 CET 2024 Impresora 1 está imprimiendo: archivo_8.txt
+Fri Dec 06 10:01:34 CET 2024 Impresora 2 está imprimiendo: archivo_9.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 10:01:49 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 10:01:49 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 10:01:49 CET 2024 Impresora 3 está imprimiendo: archivo_10.txt
+Fri Dec 06 10:01:49 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (7). Esperando para reiniciar...]
+Fri Dec 06 10:01:49 CET 2024 Tiempo estimado de espera para  Impresora 2 1 segundos
+Fri Dec 06 10:01:50 CET 2024 Impresora 1 está imprimiendo: archivo_11.txt
+Fri Dec 06 10:01:50 CET 2024 Impresora 3 está imprimiendo: archivo_12.txt
+Fri Dec 06 10:01:50 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 10:01:50 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 10:01:51 CET 2024 Impresora 1 está imprimiendo: archivo_14.txt
+Fri Dec 06 10:01:51 CET 2024 Impresora 3 está imprimiendo: archivo_15.txt
+Fri Dec 06 10:01:51 CET 2024 Impresora 2 está imprimiendo: archivo_16.txt
+Fri Dec 06 10:01:52 CET 2024 Impresora 1 está imprimiendo: archivo_17.txt
+Fri Dec 06 10:01:52 CET 2024 Impresora 3 está imprimiendo: archivo_18.txt
+Fri Dec 06 10:01:52 CET 2024 Impresora 2 está imprimiendo: archivo_19.txt
+Fri Dec 06 10:01:53 CET 2024 Impresora 1 está imprimiendo: archivo_2.txt
+Fri Dec 06 10:01:53 CET 2024 Impresora 3 está imprimiendo: archivo_20.txt
+Fri Dec 06 10:01:53 CET 2024 Impresora 2 está imprimiendo: archivo_3.txt
+Fri Dec 06 10:01:54 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (12). Esperando para reiniciar...]
+Fri Dec 06 10:01:54 CET 2024 Tiempo estimado de espera para  Impresora 1 14 segundos
+Fri Dec 06 10:01:54 CET 2024 Impresora 3 está imprimiendo: archivo_4.txt
+Fri Dec 06 10:01:54 CET 2024 Impresora 2 está imprimiendo: archivo_5.txt
+Fri Dec 06 10:01:55 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (12). Esperando para reiniciar...]
+Fri Dec 06 10:01:55 CET 2024 Tiempo estimado de espera para  Impresora 3 2 segundos
+Fri Dec 06 10:01:55 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Fri Dec 06 10:01:56 CET 2024 Impresora 2 está imprimiendo: archivo_7.txt
+Fri Dec 06 10:01:57 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 10:01:57 CET 2024 Impresora 3 está imprimiendo: archivo_8.txt
+Fri Dec 06 10:01:57 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (7). Esperando para reiniciar...]
+Fri Dec 06 10:01:57 CET 2024 Tiempo estimado de espera para  Impresora 2 16 segundos
+Fri Dec 06 10:01:58 CET 2024 Impresora 3 está imprimiendo: archivo_9.txt
+Fri Dec 06 10:02:08 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 10:02:13 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 10:02:43 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 10:02:43 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 10:02:43 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 10:02:43 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 10:02:44 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 10:02:44 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 10:02:44 CET 2024 Impresora 3 está imprimiendo: archivo_14.txt
+Fri Dec 06 10:02:45 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Fri Dec 06 10:02:45 CET 2024 Impresora 2 está imprimiendo: archivo_16.txt
+Fri Dec 06 10:02:45 CET 2024 Impresora 3 está imprimiendo: archivo_17.txt
+Fri Dec 06 10:02:46 CET 2024 Impresora 1 está imprimiendo: archivo_18.txt
+Fri Dec 06 10:02:46 CET 2024 Impresora 2 está imprimiendo: archivo_19.txt
+Fri Dec 06 10:02:46 CET 2024 Impresora 3 está imprimiendo: archivo_2.txt
+Fri Dec 06 10:02:47 CET 2024 Impresora 2 está imprimiendo: archivo_20.txt
+Fri Dec 06 10:02:47 CET 2024 Impresora 2 está imprimiendo: archivo_3.txt
+Fri Dec 06 10:02:47 CET 2024 Impresora 2 está imprimiendo: archivo_4.txt
+Fri Dec 06 10:02:47 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (7). Esperando para reiniciar...]
+Fri Dec 06 10:02:47 CET 2024 Tiempo estimado de espera para  Impresora 2 18 segundos
+Fri Dec 06 10:02:47 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 10:02:47 CET 2024 Impresora 2 está imprimiendo: archivo_5.txt
+Fri Dec 06 10:02:47 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Fri Dec 06 10:02:47 CET 2024 Impresora 1 está imprimiendo: archivo_8.txt
+Fri Dec 06 10:02:47 CET 2024 Impresora 3 está imprimiendo: archivo_9.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 10:03:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 10:03:10 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 10:03:10 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 10:03:10 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 10:03:11 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 10:03:11 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 10:03:11 CET 2024 Impresora 3 está imprimiendo: archivo_14.txt
+Fri Dec 06 10:03:12 CET 2024 Impresora 1 está imprimiendo: archivo_16.txt
+Fri Dec 06 10:03:12 CET 2024 Impresora 3 está imprimiendo: archivo_17.txt
+Fri Dec 06 10:03:13 CET 2024 Impresora 1 está imprimiendo: archivo_18.txt
+Fri Dec 06 10:03:13 CET 2024 Impresora 3 está imprimiendo: archivo_19.txt
+Fri Dec 06 10:03:14 CET 2024 Impresora 1 está imprimiendo: archivo_2.txt
+Fri Dec 06 10:03:14 CET 2024 Impresora 3 está imprimiendo: archivo_20.txt
+Fri Dec 06 10:03:15 CET 2024 Impresora 1 está imprimiendo: archivo_3.txt
+Fri Dec 06 10:03:16 CET 2024 Impresora 1 está imprimiendo: archivo_4.txt
+Fri Dec 06 10:03:17 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (12). Esperando para reiniciar...]
+Fri Dec 06 10:03:17 CET 2024 Tiempo estimado de espera para  Impresora 1 19 segundos
+Fri Dec 06 10:03:26 CET 2024 Impresora 2 está imprimiendo: archivo_5.txt
+Fri Dec 06 10:03:27 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Fri Dec 06 10:03:28 CET 2024 Impresora 2 está imprimiendo: archivo_7.txt
+Fri Dec 06 10:03:29 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (7). Esperando para reiniciar...]
+Fri Dec 06 10:03:29 CET 2024 Tiempo estimado de espera para  Impresora 2 11 segundos
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 10:04:44 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 10:04:44 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 10:04:44 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 10:04:44 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 10:04:45 CET 2024 Impresora 2 está imprimiendo: archivo_12.txt
+Fri Dec 06 10:04:45 CET 2024 Impresora 1 está imprimiendo: archivo_13.txt
+Fri Dec 06 10:04:45 CET 2024 Impresora 3 está imprimiendo: archivo_14.txt
+Fri Dec 06 10:04:46 CET 2024 Impresora 2 está imprimiendo: archivo_15.txt
+Fri Dec 06 10:04:46 CET 2024 Impresora 1 está imprimiendo: archivo_16.txt
+Fri Dec 06 10:04:46 CET 2024 Impresora 3 está imprimiendo: archivo_17.txt
+Fri Dec 06 10:04:47 CET 2024 Impresora 2 está imprimiendo: archivo_18.txt
+Fri Dec 06 10:04:47 CET 2024 Impresora 1 está imprimiendo: archivo_19.txt
+Fri Dec 06 10:04:47 CET 2024 Impresora 3 está imprimiendo: archivo_2.txt
+Fri Dec 06 10:04:48 CET 2024 Impresora 2 está imprimiendo: archivo_20.txt
+Fri Dec 06 10:04:48 CET 2024 Impresora 3 está imprimiendo: archivo_3.txt
+Fri Dec 06 10:04:48 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Fri Dec 06 10:04:48 CET 2024 Tiempo estimado de espera para  Impresora 1 0 segundos
+Fri Dec 06 10:04:48 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 10:04:48 CET 2024 Impresora 1 está imprimiendo: archivo_4.txt
+Fri Dec 06 10:04:49 CET 2024 Impresora 2 está imprimiendo: archivo_5.txt
+Fri Dec 06 10:04:49 CET 2024 Impresora 3 está imprimiendo: archivo_6.txt
+Fri Dec 06 10:04:49 CET 2024 Impresora 1 está imprimiendo: archivo_7.txt
+Fri Dec 06 10:04:50 CET 2024 Impresora 2 está imprimiendo: archivo_9.txt
+Fri Dec 06 10:04:50 CET 2024 Impresora 3 está imprimiendo: archivo_8.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 10:05:10 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 10:05:10 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 10:05:10 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 10:05:10 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 10:05:11 CET 2024 Impresora 2 está imprimiendo: archivo_12.txt
+Fri Dec 06 10:05:11 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 10:05:11 CET 2024 Impresora 2 está imprimiendo: archivo_14.txt
+Fri Dec 06 10:05:11 CET 2024 Impresora 2 está imprimiendo: archivo_15.txt
+Fri Dec 06 10:05:11 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (12). Esperando para reiniciar...]
+Fri Dec 06 10:05:11 CET 2024 Impresora 1 está imprimiendo: archivo_16.txt
+Fri Dec 06 10:05:11 CET 2024 Impresora 3 está imprimiendo: archivo_17.txt
+Fri Dec 06 10:05:12 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (4). Esperando para reiniciar...]
+Fri Dec 06 10:05:12 CET 2024 Impresora 3 está imprimiendo: archivo_18.txt
+Fri Dec 06 10:05:12 CET 2024 Tiempo estimado de espera para  Impresora 1 12 segundos
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 10:06:04 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 10:06:04 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 10:06:04 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 10:06:04 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 10:06:05 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 10:06:05 CET 2024 Impresora 2 está imprimiendo: archivo_14.txt
+Fri Dec 06 10:06:05 CET 2024 Impresora 3 está imprimiendo: archivo_13.txt
+Fri Dec 06 10:06:05 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Fri Dec 06 10:06:06 CET 2024 Impresora 3 está imprimiendo: archivo_18.txt
+Fri Dec 06 10:06:06 CET 2024 Impresora 2 está imprimiendo: archivo_17.txt
+Fri Dec 06 10:06:07 CET 2024 Impresora 2 está imprimiendo: archivo_2.txt
+Fri Dec 06 10:06:07 CET 2024 Impresora 3 está imprimiendo: archivo_19.txt
+Fri Dec 06 10:06:08 CET 2024 Impresora 3 está imprimiendo: archivo_3.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 10:06:54 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 10:06:54 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 10:06:54 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 10:06:54 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 10:06:55 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 10:06:55 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 10:06:55 CET 2024 Impresora 3 está imprimiendo: archivo_14.txt
+Fri Dec 06 10:06:56 CET 2024 Impresora 2 está imprimiendo: archivo_16.txt
+Fri Dec 06 10:06:56 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Fri Dec 06 10:06:56 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 10:06:56 CET 2024 Tiempo estimado de espera para  Impresora 3 16 segundos
+Fri Dec 06 10:06:56 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Fri Dec 06 10:06:57 CET 2024 Impresora 2 está imprimiendo: archivo_17.txt
+Fri Dec 06 10:07:12 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Fri Dec 06 10:07:12 CET 2024 Tiempo estimado de espera para  Impresora 1 7 segundos
+Fri Dec 06 10:07:16 CET 2024 Impresora 2 está imprimiendo: archivo_19.txt
+Fri Dec 06 10:07:17 CET 2024 Impresora 2 está imprimiendo: archivo_2.txt
+Fri Dec 06 10:07:17 CET 2024 Impresora 3 está imprimiendo: archivo_20.txt
+Fri Dec 06 10:07:18 CET 2024 Impresora 2 está imprimiendo: archivo_3.txt
+Fri Dec 06 10:07:18 CET 2024 Impresora 3 está imprimiendo: archivo_4.txt
+Fri Dec 06 10:07:19 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 10:07:19 CET 2024 Impresora 1 está imprimiendo: archivo_5.txt
+Fri Dec 06 10:07:19 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Fri Dec 06 10:07:19 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 10:07:19 CET 2024 Tiempo estimado de espera para  Impresora 3 11 segundos
+Fri Dec 06 10:07:20 CET 2024 Impresora 1 está imprimiendo: archivo_7.txt
+Fri Dec 06 10:07:20 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (8). Esperando para reiniciar...]
+Fri Dec 06 10:07:20 CET 2024 Tiempo estimado de espera para  Impresora 2 5 segundos
+Fri Dec 06 10:07:21 CET 2024 Impresora 1 está imprimiendo: archivo_8.txt
+Fri Dec 06 10:07:22 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Fri Dec 06 10:07:22 CET 2024 Tiempo estimado de espera para  Impresora 1 4 segundos
+Fri Dec 06 10:07:25 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 10:07:25 CET 2024 Impresora 2 está imprimiendo: archivo_9.txt
+Fri Dec 06 10:07:26 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 10:07:30 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 10:19:56 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 10:19:56 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 10:19:56 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 10:19:56 CET 2024 Impresora 3 está imprimiendo: archivo_11.txt
+Fri Dec 06 10:19:57 CET 2024 Impresora 1 está imprimiendo: archivo_12.txt
+Fri Dec 06 10:19:57 CET 2024 Impresora 2 está imprimiendo: archivo_13.txt
+Fri Dec 06 10:19:57 CET 2024 Impresora 3 está imprimiendo: archivo_14.txt
+Fri Dec 06 10:19:58 CET 2024 Impresora 1 está imprimiendo: archivo_15.txt
+Fri Dec 06 10:19:58 CET 2024 Impresora 2 está imprimiendo: archivo_16.txt
+Fri Dec 06 10:19:58 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 10:19:58 CET 2024 Tiempo estimado de espera para  Impresora 3 15 segundos
+Fri Dec 06 10:19:59 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Fri Dec 06 10:19:59 CET 2024 Impresora 2 está imprimiendo: archivo_17.txt
+Fri Dec 06 10:19:59 CET 2024 Tiempo estimado de espera para  Impresora 1 4 segundos
+Fri Dec 06 10:20:00 CET 2024 Impresora 2 está imprimiendo: archivo_18.txt
+Fri Dec 06 10:20:01 CET 2024 Impresora 2 está imprimiendo: archivo_19.txt
+Fri Dec 06 10:20:02 CET 2024 Impresora 2 está imprimiendo: archivo_2.txt
+Fri Dec 06 10:20:03 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 10:20:03 CET 2024 Impresora 1 está imprimiendo: archivo_20.txt
+Fri Dec 06 10:20:03 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (8). Esperando para reiniciar...]
+Fri Dec 06 10:20:03 CET 2024 Tiempo estimado de espera para  Impresora 2 6 segundos
+Fri Dec 06 10:20:04 CET 2024 Impresora 1 está imprimiendo: archivo_3.txt
+Fri Dec 06 10:20:05 CET 2024 Impresora 1 está imprimiendo: archivo_4.txt
+Fri Dec 06 10:20:06 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Fri Dec 06 10:20:06 CET 2024 Tiempo estimado de espera para  Impresora 1 6 segundos
+Fri Dec 06 10:20:10 CET 2024 Impresora 2 está imprimiendo: archivo_5.txt
+Fri Dec 06 10:20:11 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Fri Dec 06 10:20:12 CET 2024 Impresora 3 está imprimiendo: archivo_7.txt
+Fri Dec 06 10:20:12 CET 2024 Impresora 2 está imprimiendo: archivo_8.txt
+Fri Dec 06 10:20:13 CET 2024 Impresora 3 está imprimiendo: archivo_9.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_1.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_10.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_11.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_12.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_13.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_14.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_15.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_16.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_17.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_18.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_19.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_2.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_20.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_3.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_4.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_5.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_6.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_7.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_8.txt
+Fri Dec 06 10:20:45 CET 2024 Enviado a impresión: /home/jose/2DAM/programacion_de_procesos_y_servicios/Unidad 2/impresiones/files/archivo_9.txt
+Fri Dec 06 10:20:45 CET 2024 Impresora 1 está imprimiendo: archivo_1.txt
+Fri Dec 06 10:20:45 CET 2024 Impresora 2 está imprimiendo: archivo_10.txt
+Fri Dec 06 10:20:45 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 10:20:45 CET 2024 Tiempo estimado de espera para  Impresora 3 12 segundos
+Fri Dec 06 10:20:46 CET 2024 Impresora 1 está imprimiendo: archivo_11.txt
+Fri Dec 06 10:20:46 CET 2024 Impresora 2 está imprimiendo: archivo_12.txt
+Fri Dec 06 10:20:47 CET 2024 Impresora 1 está imprimiendo: archivo_13.txt
+Fri Dec 06 10:20:47 CET 2024 Impresora 2 está imprimiendo: archivo_14.txt
+Fri Dec 06 10:20:48 CET 2024 [Impresora 1 ha alcanzado su límite de impresiones (3). Esperando para reiniciar...]
+Fri Dec 06 10:20:48 CET 2024 Impresora 2 está imprimiendo: archivo_15.txt
+Fri Dec 06 10:20:48 CET 2024 Tiempo estimado de espera para  Impresora 1 18 segundos
+Fri Dec 06 10:20:49 CET 2024 Impresora 2 está imprimiendo: archivo_16.txt
+Fri Dec 06 10:20:50 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (8). Esperando para reiniciar...]
+Fri Dec 06 10:20:50 CET 2024 Tiempo estimado de espera para  Impresora 2 4 segundos
+Fri Dec 06 10:20:54 CET 2024 Impresora 2 está lista para imprimir nuevamente.
+Fri Dec 06 10:20:54 CET 2024 Impresora 2 está imprimiendo: archivo_17.txt
+Fri Dec 06 10:20:55 CET 2024 Impresora 2 está imprimiendo: archivo_18.txt
+Fri Dec 06 10:20:56 CET 2024 Impresora 2 está imprimiendo: archivo_19.txt
+Fri Dec 06 10:20:57 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 10:20:57 CET 2024 Impresora 3 está imprimiendo: archivo_2.txt
+Fri Dec 06 10:20:57 CET 2024 Impresora 2 está imprimiendo: archivo_20.txt
+Fri Dec 06 10:20:58 CET 2024 Impresora 3 está imprimiendo: archivo_3.txt
+Fri Dec 06 10:20:58 CET 2024 Impresora 2 está imprimiendo: archivo_4.txt
+Fri Dec 06 10:20:59 CET 2024 [Impresora 3 ha alcanzado su límite de impresiones (2). Esperando para reiniciar...]
+Fri Dec 06 10:20:59 CET 2024 Tiempo estimado de espera para  Impresora 3 9 segundos
+Fri Dec 06 10:20:59 CET 2024 Impresora 2 está imprimiendo: archivo_5.txt
+Fri Dec 06 10:21:00 CET 2024 Impresora 2 está imprimiendo: archivo_6.txt
+Fri Dec 06 10:21:01 CET 2024 Impresora 2 está imprimiendo: archivo_7.txt
+Fri Dec 06 10:21:02 CET 2024 [Impresora 2 ha alcanzado su límite de impresiones (8). Esperando para reiniciar...]
+Fri Dec 06 10:21:02 CET 2024 Tiempo estimado de espera para  Impresora 2 6 segundos
+Fri Dec 06 10:21:06 CET 2024 Impresora 1 está lista para imprimir nuevamente.
+Fri Dec 06 10:21:06 CET 2024 Impresora 1 está imprimiendo: archivo_8.txt
+Fri Dec 06 10:21:07 CET 2024 Impresora 1 está imprimiendo: archivo_9.txt
+Fri Dec 06 10:21:08 CET 2024 Impresora 3 está lista para imprimir nuevamente.
+Fri Dec 06 10:21:08 CET 2024 Impresora 2 está lista para imprimir nuevamente.
